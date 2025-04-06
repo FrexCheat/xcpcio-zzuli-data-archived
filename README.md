@@ -1,6 +1,6 @@
 # xcpcio-zzuli-data-archived
 
-xcpcio archived board data of zzuli.
+Archived xcpcio board data of zzuli.
 
 ```
 ├─index
