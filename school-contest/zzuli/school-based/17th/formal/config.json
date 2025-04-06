@@ -1,0 +1,98 @@
+{
+    "contest_name": "郑州轻工业大学 “筑梯杯” 第 17 届程序设计竞赛暨省内高校邀请赛 - 正式赛",
+    "banner": {
+        "url": "assets/banner_2025.png"
+    },
+    "start_time": 1743904800,
+    "end_time": 1743922800,
+    "frozen_time": 3600,
+    "penalty": 1200,
+    "problem_quantity": 12,
+    "problem_id": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+    ],
+    "group": {
+        "official": "轻大队伍",
+        "unofficial": "打星队伍"
+    },
+    "organization": "School",
+    "status_time_display": {
+        "correct": true,
+        "incorrect": true,
+        "pending": true
+    },
+    "medal": {
+        "official": {
+            "gold": 5,
+            "silver": 8,
+            "bronze": 12
+        },
+        "unofficial": {
+            "gold": 10
+        }
+    },
+    "balloon_color": [
+        {
+            "color": "#000",
+            "background_color": "#D3E12E"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FFEE00"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FFC0CB"
+        },
+        {
+            "color": "#000",
+            "background_color": "#2049C7"
+        },
+        {
+            "color": "#000",
+            "background_color": "#A8CEDA"
+        },
+        {
+            "color": "#000",
+            "background_color": "#548C00"
+        },
+        {
+            "color": "#000",
+            "background_color": "#CF9E9E"
+        },
+        {
+            "color": "#000",
+            "background_color": "#AB8FBF"
+        },
+        {
+            "color": "#000",
+            "background_color": "#743A3A"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FFFFFF"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FF0000"
+        },
+        {
+            "color": "#000",
+            "background_color": "#836549"
+        }
+    ],
+    "logo": {
+        "preset": "zzuli"
+    }
+}

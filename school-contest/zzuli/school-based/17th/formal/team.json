@@ -1,0 +1,2153 @@
+{
+    "sjl202001": {
+        "team_id": "sjl202001",
+        "name": "队名内涵健康向上",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王震宇",
+            "吕志豪",
+            "雷雨果"
+        ],
+        "coach": "None",
+        "location": "四教楼202-1",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202003": {
+        "team_id": "sjl202003",
+        "name": "我是zzh",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵梓昊",
+            "高福涛",
+            "王少杰"
+        ],
+        "coach": "None",
+        "location": "四教楼202-3",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202005": {
+        "team_id": "sjl202005",
+        "name": "你说的队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "蔡康乐",
+            "陈帅",
+            "张成志"
+        ],
+        "coach": "None",
+        "location": "四教楼202-5",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202007": {
+        "team_id": "sjl202007",
+        "name": "不会队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李明阳",
+            "廖健辉",
+            "李国振"
+        ],
+        "coach": "None",
+        "location": "四教楼202-7",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202009": {
+        "team_id": "sjl202009",
+        "name": "小狗怎么叫",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "杜琰",
+            "任五州",
+            "党子俊"
+        ],
+        "coach": "None",
+        "location": "四教楼202-9",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202011": {
+        "team_id": "sjl202011",
+        "name": "ccloe",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "郭雨薇",
+            "张楮钰"
+        ],
+        "coach": "None",
+        "location": "四教楼202-11",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202013": {
+        "team_id": "sjl202013",
+        "name": "天天乐",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵瑞",
+            "袁东航",
+            "郭津豪"
+        ],
+        "coach": "None",
+        "location": "四教楼202-13",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202015": {
+        "team_id": "sjl202015",
+        "name": "为了不被踢每天给管理和群主做蛋炒饭",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵晨宇",
+            "楚双瑞",
+            "王天宇"
+        ],
+        "coach": "None",
+        "location": "四教楼202-15",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202017": {
+        "team_id": "sjl202017",
+        "name": "万物复苏又该睡觉了对不队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "叶子豪",
+            "张毅",
+            "王润"
+        ],
+        "coach": "None",
+        "location": "四教楼202-17",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202019": {
+        "team_id": "sjl202019",
+        "name": "薛定谔的AC",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "程艳",
+            "崔晓晓",
+            "雷瑞娜"
+        ],
+        "coach": "None",
+        "location": "四教楼202-19",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202021": {
+        "team_id": "sjl202021",
+        "name": "菜鸟驿站",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "牛梦超",
+            "李炜",
+            "贺志昂"
+        ],
+        "coach": "None",
+        "location": "四教楼202-21",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202023": {
+        "team_id": "sjl202023",
+        "name": "秃击队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王亮亮",
+            "鹿艺",
+            "白羽"
+        ],
+        "coach": "None",
+        "location": "四教楼202-23",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202025": {
+        "team_id": "sjl202025",
+        "name": "撤退的矮人",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "鲍威成",
+            "孙志刚",
+            "赵俞臣"
+        ],
+        "coach": "None",
+        "location": "四教楼202-25",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202027": {
+        "team_id": "sjl202027",
+        "name": "二分最优解",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "夏高祥",
+            "栗闫恒",
+            "黎志鸿"
+        ],
+        "coach": "None",
+        "location": "四教楼202-27",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202029": {
+        "team_id": "sjl202029",
+        "name": "随便队伍",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王政洋",
+            "吴宜航",
+            "杨高鹏"
+        ],
+        "coach": "None",
+        "location": "四教楼202-29",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202031": {
+        "team_id": "sjl202031",
+        "name": "就叫随便吧队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "刘文俊",
+            "尹星宇",
+            "陈晓霖"
+        ],
+        "coach": "None",
+        "location": "四教楼202-31",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202033": {
+        "team_id": "sjl202033",
+        "name": "让一让，不要撞到我的KFC",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "郝子琛",
+            "赵逸飞",
+            "王钰"
+        ],
+        "coach": "None",
+        "location": "四教楼202-33",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202035": {
+        "team_id": "sjl202035",
+        "name": "喜气阳洋，豪运连连",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张辰洋",
+            "张瑞豪",
+            "赵阳"
+        ],
+        "coach": "None",
+        "location": "四教楼202-35",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202037": {
+        "team_id": "sjl202037",
+        "name": "宇宙超级无敌迪奥队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "朱葛",
+            "王昊晨",
+            "侯义潇"
+        ],
+        "coach": "None",
+        "location": "四教楼202-37",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202039": {
+        "team_id": "sjl202039",
+        "name": "重生之我要玩金铲铲",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "曹高阳",
+            "马钰皓",
+            "陈富暄"
+        ],
+        "coach": "None",
+        "location": "四教楼202-39",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202041": {
+        "team_id": "sjl202041",
+        "name": "无语羊是什么羊",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "陈浩",
+            "陈显皓",
+            "陈艺杰"
+        ],
+        "coach": "None",
+        "location": "四教楼202-41",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301001": {
+        "team_id": "sjl301001",
+        "name": "老有勇气队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "康可馨",
+            "杨婧",
+            "刘欣蕊"
+        ],
+        "coach": "None",
+        "location": "四教楼301-1",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301003": {
+        "team_id": "sjl301003",
+        "name": "小猫怎么叫",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张荣嘉",
+            "刘嘉晨",
+            "易平川"
+        ],
+        "coach": "None",
+        "location": "四教楼301-3",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301005": {
+        "team_id": "sjl301005",
+        "name": "过完清明来打星",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李士帅",
+            "于科壕",
+            "徐志高"
+        ],
+        "coach": "None",
+        "location": "四教楼301-5",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301007": {
+        "team_id": "sjl301007",
+        "name": "蛋仔派队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "宿明宇",
+            "宋梦雨",
+            "黄月月"
+        ],
+        "coach": "None",
+        "location": "四教楼301-7",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301009": {
+        "team_id": "sjl301009",
+        "name": "全栈碾压队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "姚景轩",
+            "王浩然",
+            "贾润泽"
+        ],
+        "coach": "None",
+        "location": "四教楼301-9",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301011": {
+        "team_id": "sjl301011",
+        "name": "哈哈嘿嘿",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "闫一险",
+            "程白雪"
+        ],
+        "coach": "None",
+        "location": "四教楼301-11",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301013": {
+        "team_id": "sjl301013",
+        "name": "名字越长对的越多…………",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "朱林荣",
+            "程彦博",
+            "李泳奇"
+        ],
+        "coach": "None",
+        "location": "四教楼301-13",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301015": {
+        "team_id": "sjl301015",
+        "name": "做的都队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李林超",
+            "梁中杰",
+            "李伟峰"
+        ],
+        "coach": "None",
+        "location": "四教楼301-15",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301017": {
+        "team_id": "sjl301017",
+        "name": "说的",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王智聪",
+            "王永攀"
+        ],
+        "coach": "None",
+        "location": "四教楼301-17",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301019": {
+        "team_id": "sjl301019",
+        "name": "小菜队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "陈军良",
+            "赵鑫",
+            "桂泽平"
+        ],
+        "coach": "None",
+        "location": "四教楼301-19",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301021": {
+        "team_id": "sjl301021",
+        "name": "梯云三杰",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "周昊鑫",
+            "苏春",
+            "赵彦清"
+        ],
+        "coach": "None",
+        "location": "四教楼301-21",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301023": {
+        "team_id": "sjl301023",
+        "name": "锅仔油泼辣子鸡",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "窦万锦",
+            "柴明达",
+            "郭家熹"
+        ],
+        "coach": "None",
+        "location": "四教楼301-23",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301025": {
+        "team_id": "sjl301025",
+        "name": "点燃acm动作之魂",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "于子谦",
+            "李振田",
+            "张鹏"
+        ],
+        "coach": "None",
+        "location": "四教楼301-25",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301027": {
+        "team_id": "sjl301027",
+        "name": "蹭饭团",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "袁鑫菏",
+            "聂启宽",
+            "薛晓煜"
+        ],
+        "coach": "None",
+        "location": "四教楼301-27",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301029": {
+        "team_id": "sjl301029",
+        "name": "有请下一队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "卜裕鑫",
+            "朱廷奇",
+            "杨云博"
+        ],
+        "coach": "None",
+        "location": "四教楼301-29",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301031": {
+        "team_id": "sjl301031",
+        "name": "等会再说",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王家奇",
+            "江一希",
+            "朱琳"
+        ],
+        "coach": "None",
+        "location": "四教楼301-31",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301033": {
+        "team_id": "sjl301033",
+        "name": "码的都队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张雅茹",
+            "吴晨曦",
+            "朱玉嫣"
+        ],
+        "coach": "None",
+        "location": "四教楼301-33",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301035": {
+        "team_id": "sjl301035",
+        "name": "璐思谁手队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "楚铭恩",
+            "李俊",
+            "张璐豪"
+        ],
+        "coach": "None",
+        "location": "四教楼301-35",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301037": {
+        "team_id": "sjl301037",
+        "name": "人从众",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "郭守敬",
+            "牛培宇",
+            "陈希文"
+        ],
+        "coach": "None",
+        "location": "四教楼301-37",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301039": {
+        "team_id": "sjl301039",
+        "name": "WA的一声哭出来",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张晨曦",
+            "黄金",
+            "王孟琪"
+        ],
+        "coach": "None",
+        "location": "四教楼301-39",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl301041": {
+        "team_id": "sjl301041",
+        "name": "邮电部诗人",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "马博文",
+            "任展麟",
+            "董孟欣"
+        ],
+        "coach": "None",
+        "location": "四教楼301-41",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215001": {
+        "team_id": "jsj215001",
+        "name": "深藏blue队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "阎清扬",
+            "孙嘉斌",
+            "范双学"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-1",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215003": {
+        "team_id": "jsj215003",
+        "name": "蛋仔派对",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张静茹",
+            "张韩婧",
+            "张萍"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-3",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215005": {
+        "team_id": "jsj215005",
+        "name": "都可以",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "吴钰欣",
+            "李彤",
+            "李浩栋"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-5",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215007": {
+        "team_id": "jsj215007",
+        "name": "划水摸鱼两不误",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵艺聪",
+            "张好",
+            "杨轩"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-7",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215009": {
+        "team_id": "jsj215009",
+        "name": "编译成功队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张灿",
+            "陈鑫",
+            "武子扬"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-9",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215011": {
+        "team_id": "jsj215011",
+        "name": "星期二队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "高鹏",
+            "焦业平",
+            "范栩睿"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-11",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215013": {
+        "team_id": "jsj215013",
+        "name": "我来吃自助",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "宋贤硕",
+            "王宇豪",
+            "王昊宇"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-13",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215015": {
+        "team_id": "jsj215015",
+        "name": "遥遥领先队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "尹航",
+            "马艺轩",
+            "吕浩源"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-15",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215017": {
+        "team_id": "jsj215017",
+        "name": "她说人多以为有我",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵奥博",
+            "郑顺"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-17",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215019": {
+        "team_id": "jsj215019",
+        "name": "权威",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "杜永恒",
+            "冯留帅",
+            "解定卓"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-19",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215021": {
+        "team_id": "jsj215021",
+        "name": "章鱼桶队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "周贺鹏",
+            "郑博文",
+            "王康浙"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-21",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215023": {
+        "team_id": "jsj215023",
+        "name": "队友得了mvp队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "林奇健",
+            "张可祥",
+            "徐瑛阔"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-23",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215025": {
+        "team_id": "jsj215025",
+        "name": "Dijkstra恋途",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "刘建斌",
+            "余卓",
+            "王世勋"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-25",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215027": {
+        "team_id": "jsj215027",
+        "name": "AAA点子生产队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李汶瑞",
+            "郭丁瑜",
+            "冯宇"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-27",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215029": {
+        "team_id": "jsj215029",
+        "name": "精神小伙成双队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "夏世豪",
+            "程天柱"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-29",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215031": {
+        "team_id": "jsj215031",
+        "name": "三好组",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张佳鑫",
+            "徐若熙",
+            "于梦如"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-31",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215033": {
+        "team_id": "jsj215033",
+        "name": "写的都✅",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "罗旻苑",
+            "刘韶涵",
+            "刘译方"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-33",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215035": {
+        "team_id": "jsj215035",
+        "name": "试就试",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "姚江浩",
+            "杨小青",
+            "余士毅"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-35",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215037": {
+        "team_id": "jsj215037",
+        "name": "代码先锋",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李嘉豪",
+            "郭健翔",
+            "侯伯林"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-37",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj215039": {
+        "team_id": "jsj215039",
+        "name": "灵感咕力咕力咕力",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "冯梦杰",
+            "范冰",
+            "刘星宇"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-39",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111001": {
+        "team_id": "jsj111001",
+        "name": "花开富贵队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "王梦洋",
+            "孙镱玮",
+            "郭雅惠"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-1",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111003": {
+        "team_id": "jsj111003",
+        "name": "重在参与无论对不队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "辛子昂",
+            "杨靖宇",
+            "尹鹏龙"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-3",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111005": {
+        "team_id": "jsj111005",
+        "name": "果宝特攻",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "赵宇",
+            "边浩涵",
+            "陈猛"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-5",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111007": {
+        "team_id": "jsj111007",
+        "name": "极客矩阵队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李胜统",
+            "胡艺翔",
+            "李冠辉"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-7",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111009": {
+        "team_id": "jsj111009",
+        "name": "c++提交不对转头java炒粉破产最终python考研队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "卢可",
+            "杨志豪",
+            "周子斌"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-9",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111011": {
+        "team_id": "jsj111011",
+        "name": "AI生的队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "吕梓豪",
+            "魏琨恒",
+            "柳程译"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-11",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111013": {
+        "team_id": "jsj111013",
+        "name": "躺赢狗",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "谢荣灿",
+            "汪志文",
+            "郭奕冰"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-13",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111014": {
+        "team_id": "jsj111014",
+        "name": "怎么都编不队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "刘源",
+            "李泽亿",
+            "范柏岩"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-14",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111015": {
+        "team_id": "jsj111015",
+        "name": "eleven队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "陈显阳"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-15",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111016": {
+        "team_id": "jsj111016",
+        "name": "写不队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "耿可为",
+            "段和俊",
+            "崔志强"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-16",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111017": {
+        "team_id": "jsj111017",
+        "name": "咪啪啊呜Ciallo喵~",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "李嘉硕",
+            "罗立凯",
+            "雷祖涛"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-17",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111018": {
+        "team_id": "jsj111018",
+        "name": "非人类大队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "甘承璞",
+            "王宇博",
+            "胡胜杰"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-18",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111019": {
+        "team_id": "jsj111019",
+        "name": "样例过了就队",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "马梦茹",
+            "肖佳昕",
+            "马一鸣"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-19",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111020": {
+        "team_id": "jsj111020",
+        "name": "WA术士的重启人生",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "滑子轩",
+            "郑王凯",
+            "郭子铭"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-20",
+        "group": [
+            "official"
+        ]
+    },
+    "jsj111021": {
+        "team_id": "jsj111021",
+        "name": "句号",
+        "organization": "郑州轻工业大学",
+        "members": [
+            "张静怡",
+            "李小雨",
+            "李佳颖"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-21",
+        "group": [
+            "official"
+        ]
+    },
+    "sjl202002": {
+        "team_id": "sjl202002",
+        "name": "你说的都队",
+        "organization": "河南工程学院",
+        "members": [
+            "牛丰哲",
+            "崔宇韬",
+            "戚同辉"
+        ],
+        "coach": "None",
+        "location": "四教楼202-2",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202004": {
+        "team_id": "sjl202004",
+        "name": "打完回去做毕设",
+        "organization": "河南工程学院",
+        "members": [
+            "贾军旗",
+            "周宇航",
+            "王运坤"
+        ],
+        "coach": "None",
+        "location": "四教楼202-4",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202006": {
+        "team_id": "sjl202006",
+        "name": "我爱学习",
+        "organization": "信息工程大学",
+        "members": [
+            "吴威抗",
+            "贺浩原",
+            "李佳容"
+        ],
+        "coach": "None",
+        "location": "四教楼202-6",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202008": {
+        "team_id": "sjl202008",
+        "name": "爱抽华子的白雪公主",
+        "organization": "信息工程大学",
+        "members": [
+            "王华锋",
+            "白昊然",
+            "王瑞雪"
+        ],
+        "coach": "None",
+        "location": "四教楼202-8",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202010": {
+        "team_id": "sjl202010",
+        "name": "重生之我在信大",
+        "organization": "信息工程大学",
+        "members": [
+            "蔡智勋",
+            "闫国基",
+            "赵凌睿"
+        ],
+        "coach": "None",
+        "location": "四教楼202-10",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202012": {
+        "team_id": "sjl202012",
+        "name": "花生可",
+        "organization": "信息工程大学",
+        "members": [
+            "黄颂凯",
+            "李鸣铭",
+            "李可心"
+        ],
+        "coach": "None",
+        "location": "四教楼202-12",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202014": {
+        "team_id": "sjl202014",
+        "name": "米鼠村村委会",
+        "organization": "信息工程大学",
+        "members": [
+            "危东",
+            "王小珂",
+            "林琬婷"
+        ],
+        "coach": "None",
+        "location": "四教楼202-14",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202016": {
+        "team_id": "sjl202016",
+        "name": "那我问你",
+        "organization": "郑州大学",
+        "members": [
+            "程申夫",
+            "刘开阳",
+            "孔雷博"
+        ],
+        "coach": "None",
+        "location": "四教楼202-16",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202018": {
+        "team_id": "sjl202018",
+        "name": "AK自动机",
+        "organization": "郑州大学",
+        "members": [
+            "杨光",
+            "徐钧杰",
+            "朱锦昊"
+        ],
+        "coach": "None",
+        "location": "四教楼202-18",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202020": {
+        "team_id": "sjl202020",
+        "name": "灵感菇粒菇粒蛙甲灵感菇灵感菇",
+        "organization": "郑州大学",
+        "members": [
+            "李少昆",
+            "孙昱涵",
+            "吕翊加"
+        ],
+        "coach": "None",
+        "location": "四教楼202-20",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202022": {
+        "team_id": "sjl202022",
+        "name": "TLE一勺料汁",
+        "organization": "郑州大学",
+        "members": [
+            "周政",
+            "谭海博",
+            "邓嘉杰"
+        ],
+        "coach": "None",
+        "location": "四教楼202-22",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202024": {
+        "team_id": "sjl202024",
+        "name": "神威·阿波罗",
+        "organization": "郑州大学",
+        "members": [
+            "彭俊儒",
+            "乔培元",
+            "赵圣元"
+        ],
+        "coach": "None",
+        "location": "四教楼202-24",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202026": {
+        "team_id": "sjl202026",
+        "name": "两小时下班",
+        "organization": "郑州工商学院",
+        "members": [
+            "张朝阳",
+            "周智贤",
+            "葛广金"
+        ],
+        "coach": "None",
+        "location": "四教楼202-26",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202028": {
+        "team_id": "sjl202028",
+        "name": "芒果假面",
+        "organization": "郑州工商学院",
+        "members": [
+            "刘一康",
+            "张鹏军",
+            "牛熙翔"
+        ],
+        "coach": "None",
+        "location": "四教楼202-28",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202030": {
+        "team_id": "sjl202030",
+        "name": "对对对队",
+        "organization": "郑州工商学院",
+        "members": [
+            "王炳博",
+            "李艳斌",
+            "冯泽泽"
+        ],
+        "coach": "None",
+        "location": "四教楼202-30",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202032": {
+        "team_id": "sjl202032",
+        "name": "O(1)秒睡俱乐部",
+        "organization": "郑州工商学院",
+        "members": [
+            "王烨凡",
+            "李成俊",
+            "王迁答"
+        ],
+        "coach": "None",
+        "location": "四教楼202-32",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202034": {
+        "team_id": "sjl202034",
+        "name": "打表十年功，AC一分钟",
+        "organization": "郑州工商学院",
+        "members": [
+            "张志恒",
+            "郎富国",
+            "陈俊涛"
+        ],
+        "coach": "None",
+        "location": "四教楼202-34",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202036": {
+        "team_id": "sjl202036",
+        "name": "算法比赛一定要有马斯卡彭",
+        "organization": "郑州航空工业管理学院",
+        "members": [
+            "张晓宇",
+            "申悦祺",
+            "任志豪"
+        ],
+        "coach": "None",
+        "location": "四教楼202-36",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202038": {
+        "team_id": "sjl202038",
+        "name": "cs逃课班",
+        "organization": "郑州航空工业管理学院",
+        "members": [
+            "王军超",
+            "陈秦川",
+            "侯政楷"
+        ],
+        "coach": "None",
+        "location": "四教楼202-38",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202040": {
+        "team_id": "sjl202040",
+        "name": "起个六六六",
+        "organization": "郑州航空工业管理学院",
+        "members": [
+            "李伟鹏",
+            "齐豪",
+            "史洪庆"
+        ],
+        "coach": "None",
+        "location": "四教楼202-40",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl202042": {
+        "team_id": "sjl202042",
+        "name": "重生之我在航大打ACM",
+        "organization": "郑州航空工业管理学院",
+        "members": [
+            "姜雨杉",
+            "李瑞圆",
+            "张东东"
+        ],
+        "coach": "None",
+        "location": "四教楼202-42",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301002": {
+        "team_id": "sjl301002",
+        "name": "模拟干碎天梯魂，长官我是建模人",
+        "organization": "郑州航空工业管理学院",
+        "members": [
+            "张获昌",
+            "吴峥",
+            "李旭生"
+        ],
+        "coach": "None",
+        "location": "四教楼301-2",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301004": {
+        "team_id": "sjl301004",
+        "name": "君与ACM之恋",
+        "organization": "郑州经贸学院",
+        "members": [
+            "徐进",
+            "董昭佑",
+            "穆金磊"
+        ],
+        "coach": "None",
+        "location": "四教楼301-4",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301006": {
+        "team_id": "sjl301006",
+        "name": "单纯洁白的埃克米尔",
+        "organization": "郑州经贸学院",
+        "members": [
+            "张海乐",
+            "席玮辰",
+            "王哲"
+        ],
+        "coach": "None",
+        "location": "四教楼301-6",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301008": {
+        "team_id": "sjl301008",
+        "name": "wa想ac",
+        "organization": "郑州经贸学院",
+        "members": [
+            "李皓轩",
+            "徐痛快",
+            "杨兴州"
+        ],
+        "coach": "None",
+        "location": "四教楼301-8",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301010": {
+        "team_id": "sjl301010",
+        "name": "独木难成林",
+        "organization": "郑州经贸学院",
+        "members": [
+            "秦琳珂",
+            "张云飞",
+            "顾陆军"
+        ],
+        "coach": "None",
+        "location": "四教楼301-10",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301012": {
+        "team_id": "sjl301012",
+        "name": "我还能蒸",
+        "organization": "郑州经贸学院",
+        "members": [
+            "常越",
+            "何元哲",
+            "王俊凯"
+        ],
+        "coach": "None",
+        "location": "四教楼301-12",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301014": {
+        "team_id": "sjl301014",
+        "name": "我还是会选择四块钱的冰红茶",
+        "organization": "郑州经贸学院",
+        "members": [
+            "滕云隆",
+            "刘申宇",
+            "巩俊哲"
+        ],
+        "coach": "None",
+        "location": "四教楼301-14",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301016": {
+        "team_id": "sjl301016",
+        "name": "队友让我分析为什么没人追他",
+        "organization": "河南工业大学",
+        "members": [
+            "张宏泽",
+            "马家硕",
+            "马贺"
+        ],
+        "coach": "None",
+        "location": "四教楼301-16",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301018": {
+        "team_id": "sjl301018",
+        "name": "队长正在热身",
+        "organization": "河南工业大学",
+        "members": [
+            "刘庭铄",
+            "刘义",
+            "魏方"
+        ],
+        "coach": "None",
+        "location": "四教楼301-18",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301020": {
+        "team_id": "sjl301020",
+        "name": "敲一辈子代码队",
+        "organization": "河南工业大学",
+        "members": [
+            "刘浩",
+            "王向杰",
+            "闫逸飞"
+        ],
+        "coach": "None",
+        "location": "四教楼301-20",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301022": {
+        "team_id": "sjl301022",
+        "name": "队友说这题简单你先写",
+        "organization": "河南工业大学",
+        "members": [
+            "张骏",
+            "申博宇",
+            "牛见青"
+        ],
+        "coach": "None",
+        "location": "四教楼301-22",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301024": {
+        "team_id": "sjl301024",
+        "name": "海底小纵队",
+        "organization": "河南工业大学",
+        "members": [
+            "路耀华",
+            "张康发",
+            "王伟立"
+        ],
+        "coach": "None",
+        "location": "四教楼301-24",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301026": {
+        "team_id": "sjl301026",
+        "name": "数据结构做得队",
+        "organization": "河南工业大学",
+        "members": [
+            "凡亚豪",
+            "曹子鹏",
+            "远明威"
+        ],
+        "coach": "None",
+        "location": "四教楼301-26",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301028": {
+        "team_id": "sjl301028",
+        "name": "Wifi信号弱",
+        "organization": "中原工学院",
+        "members": [
+            "张泽圆",
+            "黄子恒",
+            "符运涵"
+        ],
+        "coach": "None",
+        "location": "四教楼301-28",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301030": {
+        "team_id": "sjl301030",
+        "name": "出手必AC",
+        "organization": "中原工学院",
+        "members": [
+            "张文辄",
+            "李梦阳",
+            "冷小龙"
+        ],
+        "coach": "None",
+        "location": "四教楼301-30",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301032": {
+        "team_id": "sjl301032",
+        "name": "Green baby",
+        "organization": "中原工学院",
+        "members": [
+            "马晨旭",
+            "董于加",
+            "徐康博"
+        ],
+        "coach": "None",
+        "location": "四教楼301-32",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301034": {
+        "team_id": "sjl301034",
+        "name": "马楼队",
+        "organization": "中原工学院",
+        "members": [
+            "安轩湛",
+            "张文强",
+            "李卓文"
+        ],
+        "coach": "None",
+        "location": "四教楼301-34",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301036": {
+        "team_id": "sjl301036",
+        "name": "我才是奶龙",
+        "organization": "中原工学院",
+        "members": [
+            "刘祥懿",
+            "吴林涛",
+            "徐逸飞"
+        ],
+        "coach": "None",
+        "location": "四教楼301-36",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301038": {
+        "team_id": "sjl301038",
+        "name": "全是贾奶龙",
+        "organization": "中原工学院",
+        "members": [
+            "张文浩",
+            "徐宁博",
+            "卢锦轩"
+        ],
+        "coach": "None",
+        "location": "四教楼301-38",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301040": {
+        "team_id": "sjl301040",
+        "name": "这技校真练技术",
+        "organization": "中原工学院",
+        "members": [
+            "杨道正",
+            "王重垚",
+            "李培宣"
+        ],
+        "coach": "None",
+        "location": "四教楼301-40",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "sjl301042": {
+        "team_id": "sjl301042",
+        "name": "三个臭皮匠",
+        "organization": "中原工学院",
+        "members": [
+            "王奕众",
+            "王磊",
+            "印秋锦"
+        ],
+        "coach": "None",
+        "location": "四教楼301-42",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215002": {
+        "team_id": "jsj215002",
+        "name": "不协和音程",
+        "organization": "河南大学",
+        "members": [
+            "曹家宁",
+            "孙小文",
+            "罗施达"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-2",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215004": {
+        "team_id": "jsj215004",
+        "name": "AC自动机",
+        "organization": "河南大学",
+        "members": [
+            "胡靖铭",
+            "田沈聪",
+            "李耘辉"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-4",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215006": {
+        "team_id": "jsj215006",
+        "name": 666,
+        "organization": "河南大学",
+        "members": [
+            "李想",
+            "吴逸轩",
+            "冯文哲"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-6",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215008": {
+        "team_id": "jsj215008",
+        "name": "一觉醒来全世界编程水平下降一万倍而我还是蒟蒻",
+        "organization": "河南大学",
+        "members": [
+            "陈俊峰",
+            "刘永斌",
+            "胡文劼"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-8",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215010": {
+        "team_id": "jsj215010",
+        "name": "恭喜队友六级426",
+        "organization": "河南大学",
+        "members": [
+            "叶雅治",
+            "蔡家兴",
+            "陈鑫"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-10",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215012": {
+        "team_id": "jsj215012",
+        "name": "看队友打代码",
+        "organization": "河南大学",
+        "members": [
+            "毛昊天",
+            "赵紫林 ",
+            "黄文康"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-12",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215014": {
+        "team_id": "jsj215014",
+        "name": "河南某大专的文科生",
+        "organization": "河南大学",
+        "members": [
+            "王子天"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-14",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215016": {
+        "team_id": "jsj215016",
+        "name": "皆有所因",
+        "organization": "河南大学",
+        "members": [
+            "李锦辉",
+            "魏文博",
+            "尤铭"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-16",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215018": {
+        "team_id": "jsj215018",
+        "name": "河中医第1队",
+        "organization": "河南中医药大学",
+        "members": [
+            "陈丰羽",
+            "张情涵",
+            "冯传毅"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-18",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215020": {
+        "team_id": "jsj215020",
+        "name": "河中医第2队",
+        "organization": "河南中医药大学",
+        "members": [
+            "杨文超",
+            "杨浩彬",
+            "刘巍"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-20",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215022": {
+        "team_id": "jsj215022",
+        "name": "河中医第3队",
+        "organization": "河南中医药大学",
+        "members": [
+            "高星",
+            "金梦佳",
+            "王天赐"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-22",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215024": {
+        "team_id": "jsj215024",
+        "name": "河中医第4队",
+        "organization": "河南中医药大学",
+        "members": [
+            "关智超",
+            "姚佳音",
+            "崔智诚"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-24",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215026": {
+        "team_id": "jsj215026",
+        "name": "河中医第5队",
+        "organization": "河南中医药大学",
+        "members": [
+            "侯代森",
+            "王鑫斐",
+            "姚硕"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-26",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215028": {
+        "team_id": "jsj215028",
+        "name": "抱丰星宇烈",
+        "organization": "河南农业大学",
+        "members": [
+            "许博文",
+            "张云博",
+            "赵嘉驰"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-28",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215030": {
+        "team_id": "jsj215030",
+        "name": "自罚三杯",
+        "organization": "河南农业大学",
+        "members": [
+            "张鹏举",
+            "王浩宇",
+            "赵岩"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-30",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215032": {
+        "team_id": "jsj215032",
+        "name": "Chiikawa",
+        "organization": "河南农业大学",
+        "members": [
+            "朱逸菲",
+            "李悦",
+            "邓海迪"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-32",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215034": {
+        "team_id": "jsj215034",
+        "name": "一题都不会",
+        "organization": "河南农业大学",
+        "members": [
+            "杨光",
+            "常学谦",
+            "郑占祥"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-34",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215036": {
+        "team_id": "jsj215036",
+        "name": "码到成功",
+        "organization": "河南农业大学",
+        "members": [
+            "刘硕",
+            "闫鑫宇",
+            "南德昌"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-36",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215038": {
+        "team_id": "jsj215038",
+        "name": "#include <AC>",
+        "organization": "华北水利水电大学",
+        "members": [
+            "王加燊",
+            "张哲",
+            "何嘉斌"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-38",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj215040": {
+        "team_id": "jsj215040",
+        "name": "菜菜鼠鼠要吃果子",
+        "organization": "华北水利水电大学",
+        "members": [
+            "蔡祖铭",
+            "马灵果",
+            "蔡仁健"
+        ],
+        "coach": "None",
+        "location": "计算机楼215-40",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj111002": {
+        "team_id": "jsj111002",
+        "name": "我不照啊听说有马斯卡彭我就来了",
+        "organization": "郑州科技学院",
+        "members": [
+            "邹晓",
+            "孙睿彬",
+            "王艺豪"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-2",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj111004": {
+        "team_id": "jsj111004",
+        "name": "可爱小蛋糕",
+        "organization": "郑州科技学院",
+        "members": [
+            "张馨心",
+            "袁梦雨",
+            "杜勇明"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-4",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj111006": {
+        "team_id": "jsj111006",
+        "name": "夜露大王：ni xian kai de",
+        "organization": "郑州科技学院",
+        "members": [
+            "王可磊",
+            "高洋",
+            "贾玉申"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-6",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj111008": {
+        "team_id": "jsj111008",
+        "name": "暴力战熊队",
+        "organization": "郑州科技学院",
+        "members": [
+            "王鑫杰",
+            "张灵宇",
+            "赵兴岩"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-8",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "jsj111010": {
+        "team_id": "jsj111010",
+        "name": "凑个热闹",
+        "organization": "郑州科技学院",
+        "members": [
+            "段梦阳",
+            "张义鑫",
+            "杨东映"
+        ],
+        "coach": "None",
+        "location": "计算机楼111-10",
+        "group": [
+            "unofficial"
+        ]
+    }
+}
