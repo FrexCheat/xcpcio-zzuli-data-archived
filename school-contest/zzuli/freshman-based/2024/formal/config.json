@@ -1,0 +1,91 @@
+{
+    "contest_name": "郑州轻工业大学 “筑梯杯” 2024 级新生程序设计大赛暨省内高校邀请赛 - 正式赛",
+    "banner": {
+        "url": "assets/banner_2024.png"
+    },
+    "start_time": 1741500000,
+    "end_time": 1741510800,
+    "frozen_time": 1800,
+    "penalty": 1200,
+    "problem_quantity": 10,
+    "problem_id": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+    ],
+    "group": {
+        "official": "线下队伍",
+        "unofficial": "线上队伍",
+        "zzuli": "轻大队伍"
+    },
+    "organization": "School",
+    "status_time_display": {
+        "correct": true,
+        "incorrect": true,
+        "pending": true
+    },
+    "medal": {
+        "official": {
+            "gold": 10,
+            "silver": 20,
+            "bronze": 30
+        },
+		"zzuli": {
+            "gold": 10,
+            "silver": 20,
+            "bronze": 30
+        }
+    },
+    "balloon_color": [
+        {
+            "color": "#000",
+            "background_color": "#607331"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FFC0CB"
+        },
+        {
+            "color": "#000",
+            "background_color": "#564637"
+        },
+        {
+            "color": "#000",
+            "background_color": "#21358E"
+        },
+        {
+            "color": "#000",
+            "background_color": "#5D4145"
+        },
+        {
+            "color": "#000",
+            "background_color": "#6A931B"
+        },
+        {
+            "color": "#000",
+            "background_color": "#B86150"
+        },
+        {
+            "color": "#000",
+            "background_color": "#746489"
+        },
+        {
+            "color": "#000",
+            "background_color": "#FF0000"
+        },
+        {
+            "color": "#000",
+            "background_color": "#4BADD0"
+        }
+    ],
+    "logo": {
+        "preset": "zzuli"
+    }
+}

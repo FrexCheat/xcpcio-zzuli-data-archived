@@ -1,0 +1,7046 @@
+{
+    "900-01": {
+        "team_id": "900-01",
+        "name": "卜裕鑫",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "卜裕鑫"
+        ],
+        "coach": "None",
+        "location": "教三楼900-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-03": {
+        "team_id": "900-03",
+        "name": "吴钰欣",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "吴钰欣"
+        ],
+        "coach": "None",
+        "location": "教三楼900-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-05": {
+        "team_id": "900-05",
+        "name": "孙嘉斌",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "孙嘉斌"
+        ],
+        "coach": "None",
+        "location": "教三楼900-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-07": {
+        "team_id": "900-07",
+        "name": "任展麟",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "任展麟"
+        ],
+        "coach": "None",
+        "location": "教三楼900-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-09": {
+        "team_id": "900-09",
+        "name": "马博文",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马博文"
+        ],
+        "coach": "None",
+        "location": "教三楼900-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-11": {
+        "team_id": "900-11",
+        "name": "李浩栋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李浩栋"
+        ],
+        "coach": "None",
+        "location": "教三楼900-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-13": {
+        "team_id": "900-13",
+        "name": "周贺鹏",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "周贺鹏"
+        ],
+        "coach": "None",
+        "location": "教三楼900-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-15": {
+        "team_id": "900-15",
+        "name": "马一鸣",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马一鸣"
+        ],
+        "coach": "None",
+        "location": "教三楼900-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-17": {
+        "team_id": "900-17",
+        "name": "杨云博",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨云博"
+        ],
+        "coach": "None",
+        "location": "教三楼900-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-19": {
+        "team_id": "900-19",
+        "name": "阎清扬",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "阎清扬"
+        ],
+        "coach": "None",
+        "location": "教三楼900-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-21": {
+        "team_id": "900-21",
+        "name": "窦万锦",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "窦万锦"
+        ],
+        "coach": "None",
+        "location": "教三楼900-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-23": {
+        "team_id": "900-23",
+        "name": "罗立凯",
+        "organization": "软件学院",
+        "members": [
+            "罗立凯"
+        ],
+        "coach": "None",
+        "location": "教三楼900-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-25": {
+        "team_id": "900-25",
+        "name": "韩玉冰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "韩玉冰"
+        ],
+        "coach": "None",
+        "location": "教三楼900-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-27": {
+        "team_id": "900-27",
+        "name": "董孟欣",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "董孟欣"
+        ],
+        "coach": "None",
+        "location": "教三楼900-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-29": {
+        "team_id": "900-29",
+        "name": "牛培宇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "牛培宇"
+        ],
+        "coach": "None",
+        "location": "教三楼900-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-31": {
+        "team_id": "900-31",
+        "name": "赵柯滢",
+        "organization": "软件学院",
+        "members": [
+            "赵柯滢"
+        ],
+        "coach": "None",
+        "location": "教三楼900-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-33": {
+        "team_id": "900-33",
+        "name": "陈希文",
+        "organization": "国际教育学院",
+        "members": [
+            "陈希文"
+        ],
+        "coach": "None",
+        "location": "教三楼900-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-35": {
+        "team_id": "900-35",
+        "name": "肖佳昕",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "肖佳昕"
+        ],
+        "coach": "None",
+        "location": "教三楼900-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-37": {
+        "team_id": "900-37",
+        "name": "郑博文",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郑博文"
+        ],
+        "coach": "None",
+        "location": "教三楼900-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-39": {
+        "team_id": "900-39",
+        "name": "刘华韬",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘华韬"
+        ],
+        "coach": "None",
+        "location": "教三楼900-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-41": {
+        "team_id": "900-41",
+        "name": "张涵(02)",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张涵(02)"
+        ],
+        "coach": "None",
+        "location": "教三楼900-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-43": {
+        "team_id": "900-43",
+        "name": "张涵(03)",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张涵(03)"
+        ],
+        "coach": "None",
+        "location": "教三楼900-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-45": {
+        "team_id": "900-45",
+        "name": "张灿",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张灿"
+        ],
+        "coach": "None",
+        "location": "教三楼900-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-47": {
+        "team_id": "900-47",
+        "name": "马华晨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马华晨"
+        ],
+        "coach": "None",
+        "location": "教三楼900-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-49": {
+        "team_id": "900-49",
+        "name": "李嘉硕",
+        "organization": "软件学院",
+        "members": [
+            "李嘉硕"
+        ],
+        "coach": "None",
+        "location": "教三楼900-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-51": {
+        "team_id": "900-51",
+        "name": "尹航",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "尹航"
+        ],
+        "coach": "None",
+        "location": "教三楼900-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-53": {
+        "team_id": "900-53",
+        "name": "郭家熹",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郭家熹"
+        ],
+        "coach": "None",
+        "location": "教三楼900-53",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-55": {
+        "team_id": "900-55",
+        "name": "王佳程",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王佳程"
+        ],
+        "coach": "None",
+        "location": "教三楼900-55",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-57": {
+        "team_id": "900-57",
+        "name": "刘洋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘洋"
+        ],
+        "coach": "None",
+        "location": "教三楼900-57",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-59": {
+        "team_id": "900-59",
+        "name": "赵永祥",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "赵永祥"
+        ],
+        "coach": "None",
+        "location": "教三楼900-59",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-01": {
+        "team_id": "904-01",
+        "name": "马梦茹",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马梦茹"
+        ],
+        "coach": "None",
+        "location": "教三楼904-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-03": {
+        "team_id": "904-03",
+        "name": "张韩婧",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张韩婧"
+        ],
+        "coach": "None",
+        "location": "教三楼904-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-05": {
+        "team_id": "904-05",
+        "name": "张鹏",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张鹏"
+        ],
+        "coach": "None",
+        "location": "教三楼904-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-07": {
+        "team_id": "904-07",
+        "name": "余卓",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "余卓"
+        ],
+        "coach": "None",
+        "location": "教三楼904-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-09": {
+        "team_id": "904-09",
+        "name": "许梦雪",
+        "organization": "软件学院",
+        "members": [
+            "许梦雪"
+        ],
+        "coach": "None",
+        "location": "教三楼904-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-11": {
+        "team_id": "904-11",
+        "name": "周子斌",
+        "organization": "软件学院",
+        "members": [
+            "周子斌"
+        ],
+        "coach": "None",
+        "location": "教三楼904-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-13": {
+        "team_id": "904-13",
+        "name": "雷祖涛",
+        "organization": "软件学院",
+        "members": [
+            "雷祖涛"
+        ],
+        "coach": "None",
+        "location": "教三楼904-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-15": {
+        "team_id": "904-15",
+        "name": "朱玉嫣",
+        "organization": "奥克兰学院",
+        "members": [
+            "朱玉嫣"
+        ],
+        "coach": "None",
+        "location": "教三楼904-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-17": {
+        "team_id": "904-17",
+        "name": "高钰恒",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "高钰恒"
+        ],
+        "coach": "None",
+        "location": "教三楼904-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-19": {
+        "team_id": "904-19",
+        "name": "卢锦畅",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "卢锦畅"
+        ],
+        "coach": "None",
+        "location": "教三楼904-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-21": {
+        "team_id": "904-21",
+        "name": "薛惠柳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "薛惠柳"
+        ],
+        "coach": "None",
+        "location": "教三楼904-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-23": {
+        "team_id": "904-23",
+        "name": "郑王凯",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郑王凯"
+        ],
+        "coach": "None",
+        "location": "教三楼904-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-25": {
+        "team_id": "904-25",
+        "name": "张昊哲",
+        "organization": "软件学院",
+        "members": [
+            "张昊哲"
+        ],
+        "coach": "None",
+        "location": "教三楼904-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-27": {
+        "team_id": "904-27",
+        "name": "冯留帅",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "冯留帅"
+        ],
+        "coach": "None",
+        "location": "教三楼904-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-29": {
+        "team_id": "904-29",
+        "name": "马付豪",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马付豪"
+        ],
+        "coach": "None",
+        "location": "教三楼904-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-31": {
+        "team_id": "904-31",
+        "name": "王宇博",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王宇博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-33": {
+        "team_id": "904-33",
+        "name": "孙佳明",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "孙佳明"
+        ],
+        "coach": "None",
+        "location": "教三楼904-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-35": {
+        "team_id": "904-35",
+        "name": "胡智博",
+        "organization": "能源与动力工程学院",
+        "members": [
+            "胡智博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-37": {
+        "team_id": "904-37",
+        "name": "刘恭笑",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘恭笑"
+        ],
+        "coach": "None",
+        "location": "教三楼904-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-39": {
+        "team_id": "904-39",
+        "name": "卞明轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "卞明轩"
+        ],
+        "coach": "None",
+        "location": "教三楼904-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-41": {
+        "team_id": "904-41",
+        "name": "朱廷奇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "朱廷奇"
+        ],
+        "coach": "None",
+        "location": "教三楼904-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-43": {
+        "team_id": "904-43",
+        "name": "柳清馨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "柳清馨"
+        ],
+        "coach": "None",
+        "location": "教三楼904-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-45": {
+        "team_id": "904-45",
+        "name": "李振田",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李振田"
+        ],
+        "coach": "None",
+        "location": "教三楼904-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-47": {
+        "team_id": "904-47",
+        "name": "张好",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张好"
+        ],
+        "coach": "None",
+        "location": "教三楼904-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-49": {
+        "team_id": "904-49",
+        "name": "吴晨曦",
+        "organization": "电子信息学院",
+        "members": [
+            "吴晨曦"
+        ],
+        "coach": "None",
+        "location": "教三楼904-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-51": {
+        "team_id": "904-51",
+        "name": "赵宇",
+        "organization": "软件学院",
+        "members": [
+            "赵宇"
+        ],
+        "coach": "None",
+        "location": "教三楼904-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-53": {
+        "team_id": "904-53",
+        "name": "刘子豪",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘子豪"
+        ],
+        "coach": "None",
+        "location": "教三楼904-53",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-55": {
+        "team_id": "904-55",
+        "name": "吕浩源",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "吕浩源"
+        ],
+        "coach": "None",
+        "location": "教三楼904-55",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-57": {
+        "team_id": "904-57",
+        "name": "卢可",
+        "organization": "软件学院",
+        "members": [
+            "卢可"
+        ],
+        "coach": "None",
+        "location": "教三楼904-57",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "904-59": {
+        "team_id": "904-59",
+        "name": "周孟涛",
+        "organization": "国际教育学院",
+        "members": [
+            "周孟涛"
+        ],
+        "coach": "None",
+        "location": "教三楼904-59",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-01": {
+        "team_id": "905-01",
+        "name": "张砖涛",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张砖涛"
+        ],
+        "coach": "None",
+        "location": "教三楼905-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-03": {
+        "team_id": "905-03",
+        "name": "焦业平",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "焦业平"
+        ],
+        "coach": "None",
+        "location": "教三楼905-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-05": {
+        "team_id": "905-05",
+        "name": "辛子昂",
+        "organization": "软件学院",
+        "members": [
+            "辛子昂"
+        ],
+        "coach": "None",
+        "location": "教三楼905-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-07": {
+        "team_id": "905-07",
+        "name": "张怡轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张怡轩"
+        ],
+        "coach": "None",
+        "location": "教三楼905-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-09": {
+        "team_id": "905-09",
+        "name": "周子媛",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "周子媛"
+        ],
+        "coach": "None",
+        "location": "教三楼905-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-11": {
+        "team_id": "905-11",
+        "name": "何钰炜",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "何钰炜"
+        ],
+        "coach": "None",
+        "location": "教三楼905-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-13": {
+        "team_id": "905-13",
+        "name": "翟振彭",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "翟振彭"
+        ],
+        "coach": "None",
+        "location": "教三楼905-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-15": {
+        "team_id": "905-15",
+        "name": "解子瑶",
+        "organization": "电子信息学院",
+        "members": [
+            "解子瑶"
+        ],
+        "coach": "None",
+        "location": "教三楼905-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-17": {
+        "team_id": "905-17",
+        "name": "陈鑫",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "陈鑫"
+        ],
+        "coach": "None",
+        "location": "教三楼905-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-19": {
+        "team_id": "905-19",
+        "name": "柴明达",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "柴明达"
+        ],
+        "coach": "None",
+        "location": "教三楼905-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-21": {
+        "team_id": "905-21",
+        "name": "宗明滟",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "宗明滟"
+        ],
+        "coach": "None",
+        "location": "教三楼905-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-23": {
+        "team_id": "905-23",
+        "name": "刘星宇",
+        "organization": "软件学院",
+        "members": [
+            "刘星宇"
+        ],
+        "coach": "None",
+        "location": "教三楼905-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-25": {
+        "team_id": "905-25",
+        "name": "高申炎",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "高申炎"
+        ],
+        "coach": "None",
+        "location": "教三楼905-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-27": {
+        "team_id": "905-27",
+        "name": "桂世洋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "桂世洋"
+        ],
+        "coach": "None",
+        "location": "教三楼905-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-29": {
+        "team_id": "905-29",
+        "name": "范冰",
+        "organization": "软件学院",
+        "members": [
+            "范冰"
+        ],
+        "coach": "None",
+        "location": "教三楼905-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-31": {
+        "team_id": "905-31",
+        "name": "胡海滨",
+        "organization": "软件学院",
+        "members": [
+            "胡海滨"
+        ],
+        "coach": "None",
+        "location": "教三楼905-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-33": {
+        "team_id": "905-33",
+        "name": "贾志凯",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "贾志凯"
+        ],
+        "coach": "None",
+        "location": "教三楼905-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-35": {
+        "team_id": "905-35",
+        "name": "刘晓磊",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘晓磊"
+        ],
+        "coach": "None",
+        "location": "教三楼905-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-37": {
+        "team_id": "905-37",
+        "name": "李震",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李震"
+        ],
+        "coach": "None",
+        "location": "教三楼905-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-39": {
+        "team_id": "905-39",
+        "name": "李宇轩",
+        "organization": "电子信息学院",
+        "members": [
+            "李宇轩"
+        ],
+        "coach": "None",
+        "location": "教三楼905-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-41": {
+        "team_id": "905-41",
+        "name": "李汶瑞",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李汶瑞"
+        ],
+        "coach": "None",
+        "location": "教三楼905-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-43": {
+        "team_id": "905-43",
+        "name": "张重阳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张重阳"
+        ],
+        "coach": "None",
+        "location": "教三楼905-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-45": {
+        "team_id": "905-45",
+        "name": "郭丁瑜",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郭丁瑜"
+        ],
+        "coach": "None",
+        "location": "教三楼905-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-47": {
+        "team_id": "905-47",
+        "name": "李晨曦",
+        "organization": "电子信息学院",
+        "members": [
+            "李晨曦"
+        ],
+        "coach": "None",
+        "location": "教三楼905-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-49": {
+        "team_id": "905-49",
+        "name": "江一希",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "江一希"
+        ],
+        "coach": "None",
+        "location": "教三楼905-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-51": {
+        "team_id": "905-51",
+        "name": "计晨阳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "计晨阳"
+        ],
+        "coach": "None",
+        "location": "教三楼905-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-53": {
+        "team_id": "905-53",
+        "name": "崔云泉",
+        "organization": "软件学院",
+        "members": [
+            "崔云泉"
+        ],
+        "coach": "None",
+        "location": "教三楼905-53",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-55": {
+        "team_id": "905-55",
+        "name": "李昌隆",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李昌隆"
+        ],
+        "coach": "None",
+        "location": "教三楼905-55",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-57": {
+        "team_id": "905-57",
+        "name": "冯翰铭",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "冯翰铭"
+        ],
+        "coach": "None",
+        "location": "教三楼905-57",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "905-59": {
+        "team_id": "905-59",
+        "name": "杨过",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨过"
+        ],
+        "coach": "None",
+        "location": "教三楼905-59",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-01": {
+        "team_id": "910-01",
+        "name": "张萍",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张萍"
+        ],
+        "coach": "None",
+        "location": "教三楼910-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-03": {
+        "team_id": "910-03",
+        "name": "黄继钦",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "黄继钦"
+        ],
+        "coach": "None",
+        "location": "教三楼910-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-05": {
+        "team_id": "910-05",
+        "name": "崔汉达",
+        "organization": "国际教育学院",
+        "members": [
+            "崔汉达"
+        ],
+        "coach": "None",
+        "location": "教三楼910-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-07": {
+        "team_id": "910-07",
+        "name": "杨耿杰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨耿杰"
+        ],
+        "coach": "None",
+        "location": "教三楼910-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-09": {
+        "team_id": "910-09",
+        "name": "赵鹏博",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "赵鹏博"
+        ],
+        "coach": "None",
+        "location": "教三楼910-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-11": {
+        "team_id": "910-11",
+        "name": "王正阳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王正阳"
+        ],
+        "coach": "None",
+        "location": "教三楼910-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-13": {
+        "team_id": "910-13",
+        "name": "张璐豪",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张璐豪"
+        ],
+        "coach": "None",
+        "location": "教三楼910-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-15": {
+        "team_id": "910-15",
+        "name": "赵艺聪",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "赵艺聪"
+        ],
+        "coach": "None",
+        "location": "教三楼910-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-17": {
+        "team_id": "910-17",
+        "name": "徐星宇",
+        "organization": "软件学院",
+        "members": [
+            "徐星宇"
+        ],
+        "coach": "None",
+        "location": "教三楼910-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-19": {
+        "team_id": "910-19",
+        "name": "庞灿",
+        "organization": "软件学院",
+        "members": [
+            "庞灿"
+        ],
+        "coach": "None",
+        "location": "教三楼910-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-21": {
+        "team_id": "910-21",
+        "name": "张静怡",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张静怡"
+        ],
+        "coach": "None",
+        "location": "教三楼910-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-23": {
+        "team_id": "910-23",
+        "name": "张雨豪",
+        "organization": "电子信息学院",
+        "members": [
+            "张雨豪"
+        ],
+        "coach": "None",
+        "location": "教三楼910-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-25": {
+        "team_id": "910-25",
+        "name": "郭守敬",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郭守敬"
+        ],
+        "coach": "None",
+        "location": "教三楼910-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-27": {
+        "team_id": "910-27",
+        "name": "马艺轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "马艺轩"
+        ],
+        "coach": "None",
+        "location": "教三楼910-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-29": {
+        "team_id": "910-29",
+        "name": "耿可为",
+        "organization": "软件学院",
+        "members": [
+            "耿可为"
+        ],
+        "coach": "None",
+        "location": "教三楼910-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-31": {
+        "team_id": "910-31",
+        "name": "章谋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "章谋"
+        ],
+        "coach": "None",
+        "location": "教三楼910-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-33": {
+        "team_id": "910-33",
+        "name": "徐甜甜",
+        "organization": "电子信息学院",
+        "members": [
+            "徐甜甜"
+        ],
+        "coach": "None",
+        "location": "教三楼910-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-35": {
+        "team_id": "910-35",
+        "name": "陈嘉辉",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "陈嘉辉"
+        ],
+        "coach": "None",
+        "location": "教三楼910-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-37": {
+        "team_id": "910-37",
+        "name": "武子扬",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "武子扬"
+        ],
+        "coach": "None",
+        "location": "教三楼910-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-39": {
+        "team_id": "910-39",
+        "name": "任振源",
+        "organization": "软件学院",
+        "members": [
+            "任振源"
+        ],
+        "coach": "None",
+        "location": "教三楼910-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-41": {
+        "team_id": "910-41",
+        "name": "胡春昊",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "胡春昊"
+        ],
+        "coach": "None",
+        "location": "教三楼910-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-43": {
+        "team_id": "910-43",
+        "name": "党昊帅",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "党昊帅"
+        ],
+        "coach": "None",
+        "location": "教三楼910-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-45": {
+        "team_id": "910-45",
+        "name": "陈博文",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "陈博文"
+        ],
+        "coach": "None",
+        "location": "教三楼910-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-46": {
+        "team_id": "910-46",
+        "name": "杨佳一",
+        "organization": "软件学院",
+        "members": [
+            "杨佳一"
+        ],
+        "coach": "None",
+        "location": "教三楼910-46",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-47": {
+        "team_id": "910-47",
+        "name": "张子豪",
+        "organization": "软件学院",
+        "members": [
+            "张子豪"
+        ],
+        "coach": "None",
+        "location": "教三楼910-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-48": {
+        "team_id": "910-48",
+        "name": "郑顺",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郑顺"
+        ],
+        "coach": "None",
+        "location": "教三楼910-48",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-49": {
+        "team_id": "910-49",
+        "name": "崔康乐",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "崔康乐"
+        ],
+        "coach": "None",
+        "location": "教三楼910-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-50": {
+        "team_id": "910-50",
+        "name": "何京泽",
+        "organization": "国际教育学院",
+        "members": [
+            "何京泽"
+        ],
+        "coach": "None",
+        "location": "教三楼910-50",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-51": {
+        "team_id": "910-51",
+        "name": "安智博",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "安智博"
+        ],
+        "coach": "None",
+        "location": "教三楼910-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "910-52": {
+        "team_id": "910-52",
+        "name": "刘丛玮",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘丛玮"
+        ],
+        "coach": "None",
+        "location": "教三楼910-52",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-01": {
+        "team_id": "102-01",
+        "name": "李建涛",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李建涛"
+        ],
+        "coach": "None",
+        "location": "东五楼102-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-02": {
+        "team_id": "102-02",
+        "name": "王晨宇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王晨宇"
+        ],
+        "coach": "None",
+        "location": "东五楼102-2",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-03": {
+        "team_id": "102-03",
+        "name": "赵思晨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "赵思晨"
+        ],
+        "coach": "None",
+        "location": "东五楼102-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-04": {
+        "team_id": "102-04",
+        "name": "黄润康",
+        "organization": "软件学院",
+        "members": [
+            "黄润康"
+        ],
+        "coach": "None",
+        "location": "东五楼102-4",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-05": {
+        "team_id": "102-05",
+        "name": "祝博远",
+        "organization": "软件学院",
+        "members": [
+            "祝博远"
+        ],
+        "coach": "None",
+        "location": "东五楼102-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-06": {
+        "team_id": "102-06",
+        "name": "李璨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李璨"
+        ],
+        "coach": "None",
+        "location": "东五楼102-6",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-07": {
+        "team_id": "102-07",
+        "name": "谭嘉庆",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "谭嘉庆"
+        ],
+        "coach": "None",
+        "location": "东五楼102-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-08": {
+        "team_id": "102-08",
+        "name": "王世勋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王世勋"
+        ],
+        "coach": "None",
+        "location": "东五楼102-8",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-09": {
+        "team_id": "102-09",
+        "name": "程茹菲",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "程茹菲"
+        ],
+        "coach": "None",
+        "location": "东五楼102-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-10": {
+        "team_id": "102-10",
+        "name": "冯壮壮",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "冯壮壮"
+        ],
+        "coach": "None",
+        "location": "东五楼102-10",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-11": {
+        "team_id": "102-11",
+        "name": "范双学",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "范双学"
+        ],
+        "coach": "None",
+        "location": "东五楼102-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-12": {
+        "team_id": "102-12",
+        "name": "汤之涵",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "汤之涵"
+        ],
+        "coach": "None",
+        "location": "东五楼102-12",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-13": {
+        "team_id": "102-13",
+        "name": "周博文",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "周博文"
+        ],
+        "coach": "None",
+        "location": "东五楼102-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-14": {
+        "team_id": "102-14",
+        "name": "郜晨恒",
+        "organization": "软件学院",
+        "members": [
+            "郜晨恒"
+        ],
+        "coach": "None",
+        "location": "东五楼102-14",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-15": {
+        "team_id": "102-15",
+        "name": "鲁远康",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "鲁远康"
+        ],
+        "coach": "None",
+        "location": "东五楼102-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-16": {
+        "team_id": "102-16",
+        "name": "杨曼雨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨曼雨"
+        ],
+        "coach": "None",
+        "location": "东五楼102-16",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-17": {
+        "team_id": "102-17",
+        "name": "沈炳帆",
+        "organization": "数学与信息科学学院",
+        "members": [
+            "沈炳帆"
+        ],
+        "coach": "None",
+        "location": "东五楼102-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-18": {
+        "team_id": "102-18",
+        "name": "党子钰",
+        "organization": "软件学院",
+        "members": [
+            "党子钰"
+        ],
+        "coach": "None",
+        "location": "东五楼102-18",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-19": {
+        "team_id": "102-19",
+        "name": "让宇航",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "让宇航"
+        ],
+        "coach": "None",
+        "location": "东五楼102-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-20": {
+        "team_id": "102-20",
+        "name": "兰牧晓",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "兰牧晓"
+        ],
+        "coach": "None",
+        "location": "东五楼102-20",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-21": {
+        "team_id": "102-21",
+        "name": "冯宇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "冯宇"
+        ],
+        "coach": "None",
+        "location": "东五楼102-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-22": {
+        "team_id": "102-22",
+        "name": "李尚",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李尚"
+        ],
+        "coach": "None",
+        "location": "东五楼102-22",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-23": {
+        "team_id": "102-23",
+        "name": "张静茹",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张静茹"
+        ],
+        "coach": "None",
+        "location": "东五楼102-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-24": {
+        "team_id": "102-24",
+        "name": "白岩松",
+        "organization": "软件学院",
+        "members": [
+            "白岩松"
+        ],
+        "coach": "None",
+        "location": "东五楼102-24",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-25": {
+        "team_id": "102-25",
+        "name": "林奇健",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "林奇健"
+        ],
+        "coach": "None",
+        "location": "东五楼102-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-26": {
+        "team_id": "102-26",
+        "name": "楚铭恩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "楚铭恩"
+        ],
+        "coach": "None",
+        "location": "东五楼102-26",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-27": {
+        "team_id": "102-27",
+        "name": "陆一",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "陆一"
+        ],
+        "coach": "None",
+        "location": "东五楼102-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-28": {
+        "team_id": "102-28",
+        "name": "徐瑛阔",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "徐瑛阔"
+        ],
+        "coach": "None",
+        "location": "东五楼102-28",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-29": {
+        "team_id": "102-29",
+        "name": "池硕",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "池硕"
+        ],
+        "coach": "None",
+        "location": "东五楼102-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-30": {
+        "team_id": "102-30",
+        "name": "陈显阳",
+        "organization": "软件学院",
+        "members": [
+            "陈显阳"
+        ],
+        "coach": "None",
+        "location": "东五楼102-30",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-31": {
+        "team_id": "102-31",
+        "name": "关凯文",
+        "organization": "国际教育学院",
+        "members": [
+            "关凯文"
+        ],
+        "coach": "None",
+        "location": "东五楼102-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-32": {
+        "team_id": "102-32",
+        "name": "张家杰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张家杰"
+        ],
+        "coach": "None",
+        "location": "东五楼102-32",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-33": {
+        "team_id": "102-33",
+        "name": "杨童戈",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨童戈"
+        ],
+        "coach": "None",
+        "location": "东五楼102-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-34": {
+        "team_id": "102-34",
+        "name": "杨柠滔",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨柠滔"
+        ],
+        "coach": "None",
+        "location": "东五楼102-34",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-35": {
+        "team_id": "102-35",
+        "name": "李豪洋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李豪洋"
+        ],
+        "coach": "None",
+        "location": "东五楼102-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-36": {
+        "team_id": "102-36",
+        "name": "李宗霖",
+        "organization": "国际教育学院",
+        "members": [
+            "李宗霖"
+        ],
+        "coach": "None",
+        "location": "东五楼102-36",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-37": {
+        "team_id": "102-37",
+        "name": "王华帅",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王华帅"
+        ],
+        "coach": "None",
+        "location": "东五楼102-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-38": {
+        "team_id": "102-38",
+        "name": "解一凡",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "解一凡"
+        ],
+        "coach": "None",
+        "location": "东五楼102-38",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-39": {
+        "team_id": "102-39",
+        "name": "刘豫清",
+        "organization": "软件学院",
+        "members": [
+            "刘豫清"
+        ],
+        "coach": "None",
+        "location": "东五楼102-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-40": {
+        "team_id": "102-40",
+        "name": "赵子贺",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "赵子贺"
+        ],
+        "coach": "None",
+        "location": "东五楼102-40",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-41": {
+        "team_id": "102-41",
+        "name": "梁子恒",
+        "organization": "软件学院",
+        "members": [
+            "梁子恒"
+        ],
+        "coach": "None",
+        "location": "东五楼102-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-42": {
+        "team_id": "102-42",
+        "name": "姜旭博",
+        "organization": "软件学院",
+        "members": [
+            "姜旭博"
+        ],
+        "coach": "None",
+        "location": "东五楼102-42",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-43": {
+        "team_id": "102-43",
+        "name": "李昱成",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李昱成"
+        ],
+        "coach": "None",
+        "location": "东五楼102-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-44": {
+        "team_id": "102-44",
+        "name": "田家乐",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "田家乐"
+        ],
+        "coach": "None",
+        "location": "东五楼102-44",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-45": {
+        "team_id": "102-45",
+        "name": "张雷",
+        "organization": "国际教育学院",
+        "members": [
+            "张雷"
+        ],
+        "coach": "None",
+        "location": "东五楼102-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-46": {
+        "team_id": "102-46",
+        "name": "张雅茹",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张雅茹"
+        ],
+        "coach": "None",
+        "location": "东五楼102-46",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-47": {
+        "team_id": "102-47",
+        "name": "詹统旋",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "詹统旋"
+        ],
+        "coach": "None",
+        "location": "东五楼102-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-48": {
+        "team_id": "102-48",
+        "name": "康怡宁",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "康怡宁"
+        ],
+        "coach": "None",
+        "location": "东五楼102-48",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-49": {
+        "team_id": "102-49",
+        "name": "张韶涵",
+        "organization": "软件学院",
+        "members": [
+            "张韶涵"
+        ],
+        "coach": "None",
+        "location": "东五楼102-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-50": {
+        "team_id": "102-50",
+        "name": "杨洲菲",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨洲菲"
+        ],
+        "coach": "None",
+        "location": "东五楼102-50",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-51": {
+        "team_id": "102-51",
+        "name": "于子谦",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "于子谦"
+        ],
+        "coach": "None",
+        "location": "东五楼102-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-52": {
+        "team_id": "102-52",
+        "name": "李佳燕",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李佳燕"
+        ],
+        "coach": "None",
+        "location": "东五楼102-52",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-53": {
+        "team_id": "102-53",
+        "name": "刘致",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘致"
+        ],
+        "coach": "None",
+        "location": "东五楼102-53",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-54": {
+        "team_id": "102-54",
+        "name": "刘家哲",
+        "organization": "电子信息学院",
+        "members": [
+            "刘家哲"
+        ],
+        "coach": "None",
+        "location": "东五楼102-54",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-55": {
+        "team_id": "102-55",
+        "name": "李美凤",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李美凤"
+        ],
+        "coach": "None",
+        "location": "东五楼102-55",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-56": {
+        "team_id": "102-56",
+        "name": "孔冰楠",
+        "organization": "软件学院",
+        "members": [
+            "孔冰楠"
+        ],
+        "coach": "None",
+        "location": "东五楼102-56",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-57": {
+        "team_id": "102-57",
+        "name": "李瑞童",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李瑞童"
+        ],
+        "coach": "None",
+        "location": "东五楼102-57",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-58": {
+        "team_id": "102-58",
+        "name": "豆帅",
+        "organization": "软件学院",
+        "members": [
+            "豆帅"
+        ],
+        "coach": "None",
+        "location": "东五楼102-58",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-59": {
+        "team_id": "102-59",
+        "name": "黄勤芳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "黄勤芳"
+        ],
+        "coach": "None",
+        "location": "东五楼102-59",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-60": {
+        "team_id": "102-60",
+        "name": "胡鼎轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "胡鼎轩"
+        ],
+        "coach": "None",
+        "location": "东五楼102-60",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-61": {
+        "team_id": "102-61",
+        "name": "陈星欣",
+        "organization": "电子信息学院",
+        "members": [
+            "陈星欣"
+        ],
+        "coach": "None",
+        "location": "东五楼102-61",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-62": {
+        "team_id": "102-62",
+        "name": "张慧鑫",
+        "organization": "软件学院",
+        "members": [
+            "张慧鑫"
+        ],
+        "coach": "None",
+        "location": "东五楼102-62",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-63": {
+        "team_id": "102-63",
+        "name": "王惠喆",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王惠喆"
+        ],
+        "coach": "None",
+        "location": "东五楼102-63",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-64": {
+        "team_id": "102-64",
+        "name": "王乐文",
+        "organization": "软件学院",
+        "members": [
+            "王乐文"
+        ],
+        "coach": "None",
+        "location": "东五楼102-64",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-65": {
+        "team_id": "102-65",
+        "name": "蔡子健",
+        "organization": "软件学院",
+        "members": [
+            "蔡子健"
+        ],
+        "coach": "None",
+        "location": "东五楼102-65",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-66": {
+        "team_id": "102-66",
+        "name": "李帅政",
+        "organization": "软件学院",
+        "members": [
+            "李帅政"
+        ],
+        "coach": "None",
+        "location": "东五楼102-66",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-67": {
+        "team_id": "102-67",
+        "name": "王天宇",
+        "organization": "数学与信息科学学院",
+        "members": [
+            "王天宇"
+        ],
+        "coach": "None",
+        "location": "东五楼102-67",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-68": {
+        "team_id": "102-68",
+        "name": "朱晨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "朱晨"
+        ],
+        "coach": "None",
+        "location": "东五楼102-68",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-69": {
+        "team_id": "102-69",
+        "name": "孟思彤",
+        "organization": "软件学院",
+        "members": [
+            "孟思彤"
+        ],
+        "coach": "None",
+        "location": "东五楼102-69",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "102-70": {
+        "team_id": "102-70",
+        "name": "堵梦雅",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "堵梦雅"
+        ],
+        "coach": "None",
+        "location": "东五楼102-70",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-01": {
+        "team_id": "202-01",
+        "name": "肖雯倩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "肖雯倩"
+        ],
+        "coach": "None",
+        "location": "东五楼202-1",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-02": {
+        "team_id": "202-02",
+        "name": "王宇豪",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王宇豪"
+        ],
+        "coach": "None",
+        "location": "东五楼202-2",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-03": {
+        "team_id": "202-03",
+        "name": "鲍星辉",
+        "organization": "国际教育学院",
+        "members": [
+            "鲍星辉"
+        ],
+        "coach": "None",
+        "location": "东五楼202-3",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-04": {
+        "team_id": "202-04",
+        "name": "宋圣瀚",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "宋圣瀚"
+        ],
+        "coach": "None",
+        "location": "东五楼202-4",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-05": {
+        "team_id": "202-05",
+        "name": "王秉坤",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王秉坤"
+        ],
+        "coach": "None",
+        "location": "东五楼202-5",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-06": {
+        "team_id": "202-06",
+        "name": "张林淼",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张林淼"
+        ],
+        "coach": "None",
+        "location": "东五楼202-6",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-07": {
+        "team_id": "202-07",
+        "name": "焦义展",
+        "organization": "软件学院",
+        "members": [
+            "焦义展"
+        ],
+        "coach": "None",
+        "location": "东五楼202-7",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-08": {
+        "team_id": "202-08",
+        "name": "王少博",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王少博"
+        ],
+        "coach": "None",
+        "location": "东五楼202-8",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-09": {
+        "team_id": "202-09",
+        "name": "杨晓彤",
+        "organization": "电气信息工程学院",
+        "members": [
+            "杨晓彤"
+        ],
+        "coach": "None",
+        "location": "东五楼202-9",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-10": {
+        "team_id": "202-10",
+        "name": "郭奕冰",
+        "organization": "电子信息学院",
+        "members": [
+            "郭奕冰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-10",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-11": {
+        "team_id": "202-11",
+        "name": "张浩轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张浩轩"
+        ],
+        "coach": "None",
+        "location": "东五楼202-11",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-12": {
+        "team_id": "202-12",
+        "name": "尹鹏龙",
+        "organization": "软件学院",
+        "members": [
+            "尹鹏龙"
+        ],
+        "coach": "None",
+        "location": "东五楼202-12",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-13": {
+        "team_id": "202-13",
+        "name": "田君茹",
+        "organization": "软件学院",
+        "members": [
+            "田君茹"
+        ],
+        "coach": "None",
+        "location": "东五楼202-13",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-14": {
+        "team_id": "202-14",
+        "name": "徐浩林",
+        "organization": "奥克兰学院",
+        "members": [
+            "徐浩林"
+        ],
+        "coach": "None",
+        "location": "东五楼202-14",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-15": {
+        "team_id": "202-15",
+        "name": "张紫薇",
+        "organization": "软件学院",
+        "members": [
+            "张紫薇"
+        ],
+        "coach": "None",
+        "location": "东五楼202-15",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-16": {
+        "team_id": "202-16",
+        "name": "杜永恒",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杜永恒"
+        ],
+        "coach": "None",
+        "location": "东五楼202-16",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-17": {
+        "team_id": "202-17",
+        "name": "李俊杰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李俊杰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-17",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-18": {
+        "team_id": "202-18",
+        "name": "杨森杰",
+        "organization": "国际教育学院",
+        "members": [
+            "杨森杰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-18",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-19": {
+        "team_id": "202-19",
+        "name": "李昂",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李昂"
+        ],
+        "coach": "None",
+        "location": "东五楼202-19",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-20": {
+        "team_id": "202-20",
+        "name": "黄金",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "黄金"
+        ],
+        "coach": "None",
+        "location": "东五楼202-20",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-21": {
+        "team_id": "202-21",
+        "name": "郭浩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郭浩"
+        ],
+        "coach": "None",
+        "location": "东五楼202-21",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-22": {
+        "team_id": "202-22",
+        "name": "范栩睿",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "范栩睿"
+        ],
+        "coach": "None",
+        "location": "东五楼202-22",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-23": {
+        "team_id": "202-23",
+        "name": "胡胜杰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "胡胜杰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-23",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-24": {
+        "team_id": "202-24",
+        "name": "解定卓",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "解定卓"
+        ],
+        "coach": "None",
+        "location": "东五楼202-24",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-25": {
+        "team_id": "202-25",
+        "name": "李成真",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李成真"
+        ],
+        "coach": "None",
+        "location": "东五楼202-25",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-26": {
+        "team_id": "202-26",
+        "name": "黄书冉",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "黄书冉"
+        ],
+        "coach": "None",
+        "location": "东五楼202-26",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-27": {
+        "team_id": "202-27",
+        "name": "李子木",
+        "organization": "建筑环境工程学院",
+        "members": [
+            "李子木"
+        ],
+        "coach": "None",
+        "location": "东五楼202-27",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-28": {
+        "team_id": "202-28",
+        "name": "李金璨",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李金璨"
+        ],
+        "coach": "None",
+        "location": "东五楼202-28",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-29": {
+        "team_id": "202-29",
+        "name": "李彤",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李彤"
+        ],
+        "coach": "None",
+        "location": "东五楼202-29",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-30": {
+        "team_id": "202-30",
+        "name": "栗荣兴",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "栗荣兴"
+        ],
+        "coach": "None",
+        "location": "东五楼202-30",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-31": {
+        "team_id": "202-31",
+        "name": "王昊宇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王昊宇"
+        ],
+        "coach": "None",
+        "location": "东五楼202-31",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-32": {
+        "team_id": "202-32",
+        "name": "曹梦迪",
+        "organization": "国际教育学院",
+        "members": [
+            "曹梦迪"
+        ],
+        "coach": "None",
+        "location": "东五楼202-32",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-33": {
+        "team_id": "202-33",
+        "name": "姜凯翔",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "姜凯翔"
+        ],
+        "coach": "None",
+        "location": "东五楼202-33",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-34": {
+        "team_id": "202-34",
+        "name": "王钰",
+        "organization": "数学与信息科学学院",
+        "members": [
+            "王钰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-34",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-35": {
+        "team_id": "202-35",
+        "name": "高鹏",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "高鹏"
+        ],
+        "coach": "None",
+        "location": "东五楼202-35",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-36": {
+        "team_id": "202-36",
+        "name": "冒城",
+        "organization": "电子信息学院",
+        "members": [
+            "冒城"
+        ],
+        "coach": "None",
+        "location": "东五楼202-36",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-37": {
+        "team_id": "202-37",
+        "name": "王淑婷",
+        "organization": "能源与动力工程学院",
+        "members": [
+            "王淑婷"
+        ],
+        "coach": "None",
+        "location": "东五楼202-37",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-38": {
+        "team_id": "202-38",
+        "name": "苗泓锴",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "苗泓锴"
+        ],
+        "coach": "None",
+        "location": "东五楼202-38",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-39": {
+        "team_id": "202-39",
+        "name": "宋贤硕",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "宋贤硕"
+        ],
+        "coach": "None",
+        "location": "东五楼202-39",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-40": {
+        "team_id": "202-40",
+        "name": "杨昊澎",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨昊澎"
+        ],
+        "coach": "None",
+        "location": "东五楼202-40",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-41": {
+        "team_id": "202-41",
+        "name": "王浩",
+        "organization": "电子信息学院",
+        "members": [
+            "王浩"
+        ],
+        "coach": "None",
+        "location": "东五楼202-41",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-42": {
+        "team_id": "202-42",
+        "name": "陈相宇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "陈相宇"
+        ],
+        "coach": "None",
+        "location": "东五楼202-42",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-43": {
+        "team_id": "202-43",
+        "name": "卢冠杰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "卢冠杰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-43",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-44": {
+        "team_id": "202-44",
+        "name": "甘承璞",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "甘承璞"
+        ],
+        "coach": "None",
+        "location": "东五楼202-44",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-45": {
+        "team_id": "202-45",
+        "name": "隋晓明",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "隋晓明"
+        ],
+        "coach": "None",
+        "location": "东五楼202-45",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-46": {
+        "team_id": "202-46",
+        "name": "王家奇",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王家奇"
+        ],
+        "coach": "None",
+        "location": "东五楼202-46",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-47": {
+        "team_id": "202-47",
+        "name": "王东阳",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王东阳"
+        ],
+        "coach": "None",
+        "location": "东五楼202-47",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-48": {
+        "team_id": "202-48",
+        "name": "田佳鑫",
+        "organization": "能源与动力工程学院",
+        "members": [
+            "田佳鑫"
+        ],
+        "coach": "None",
+        "location": "东五楼202-48",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-49": {
+        "team_id": "202-49",
+        "name": "李星辰",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李星辰"
+        ],
+        "coach": "None",
+        "location": "东五楼202-49",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-50": {
+        "team_id": "202-50",
+        "name": "刘建斌",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "刘建斌"
+        ],
+        "coach": "None",
+        "location": "东五楼202-50",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-51": {
+        "team_id": "202-51",
+        "name": "汪志文",
+        "organization": "食品与生物工程学院",
+        "members": [
+            "汪志文"
+        ],
+        "coach": "None",
+        "location": "东五楼202-51",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-52": {
+        "team_id": "202-52",
+        "name": "滑子轩",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "滑子轩"
+        ],
+        "coach": "None",
+        "location": "东五楼202-52",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-53": {
+        "team_id": "202-53",
+        "name": "王康浙",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "王康浙"
+        ],
+        "coach": "None",
+        "location": "东五楼202-53",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-54": {
+        "team_id": "202-54",
+        "name": "吕梓豪",
+        "organization": "软件学院",
+        "members": [
+            "吕梓豪"
+        ],
+        "coach": "None",
+        "location": "东五楼202-54",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-55": {
+        "team_id": "202-55",
+        "name": "李佳音",
+        "organization": "国际教育学院",
+        "members": [
+            "李佳音"
+        ],
+        "coach": "None",
+        "location": "东五楼202-55",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-56": {
+        "team_id": "202-56",
+        "name": "张琪航",
+        "organization": "奥克兰学院",
+        "members": [
+            "张琪航"
+        ],
+        "coach": "None",
+        "location": "东五楼202-56",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-57": {
+        "team_id": "202-57",
+        "name": "张赛",
+        "organization": "电子信息学院",
+        "members": [
+            "张赛"
+        ],
+        "coach": "None",
+        "location": "东五楼202-57",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-58": {
+        "team_id": "202-58",
+        "name": "李成治",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李成治"
+        ],
+        "coach": "None",
+        "location": "东五楼202-58",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-59": {
+        "team_id": "202-59",
+        "name": "史羽彤",
+        "organization": "软件学院",
+        "members": [
+            "史羽彤"
+        ],
+        "coach": "None",
+        "location": "东五楼202-59",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-60": {
+        "team_id": "202-60",
+        "name": "郭子铭",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "郭子铭"
+        ],
+        "coach": "None",
+        "location": "东五楼202-60",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-61": {
+        "team_id": "202-61",
+        "name": "张荣昌",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "张荣昌"
+        ],
+        "coach": "None",
+        "location": "东五楼202-61",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-62": {
+        "team_id": "202-62",
+        "name": "杨圳豫",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杨圳豫"
+        ],
+        "coach": "None",
+        "location": "东五楼202-62",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-63": {
+        "team_id": "202-63",
+        "name": "黄翊旸",
+        "organization": "国际教育学院",
+        "members": [
+            "黄翊旸"
+        ],
+        "coach": "None",
+        "location": "东五楼202-63",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-64": {
+        "team_id": "202-64",
+        "name": "杜习哲",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "杜习哲"
+        ],
+        "coach": "None",
+        "location": "东五楼202-64",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-65": {
+        "team_id": "202-65",
+        "name": "白佳灵",
+        "organization": "软件学院",
+        "members": [
+            "白佳灵"
+        ],
+        "coach": "None",
+        "location": "东五楼202-65",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-66": {
+        "team_id": "202-66",
+        "name": "李丛希",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "李丛希"
+        ],
+        "coach": "None",
+        "location": "东五楼202-66",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-67": {
+        "team_id": "202-67",
+        "name": "赵贵龙",
+        "organization": "建筑环境工程学院",
+        "members": [
+            "赵贵龙"
+        ],
+        "coach": "None",
+        "location": "东五楼202-67",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "202-68": {
+        "team_id": "202-68",
+        "name": "方晨悦",
+        "organization": "计算机科学与技术学院",
+        "members": [
+            "方晨悦"
+        ],
+        "coach": "None",
+        "location": "东五楼202-68",
+        "group": [
+            "official",
+            "zzuli"
+        ]
+    },
+    "900-02": {
+        "team_id": "900-02",
+        "name": "吴伴玉",
+        "organization": "河南农业大学",
+        "members": [
+            "吴伴玉"
+        ],
+        "coach": "None",
+        "location": "教三楼900-2",
+        "group": [
+            "official"
+        ]
+    },
+    "900-04": {
+        "team_id": "900-04",
+        "name": "高成",
+        "organization": "河南农业大学",
+        "members": [
+            "高成"
+        ],
+        "coach": "None",
+        "location": "教三楼900-4",
+        "group": [
+            "official"
+        ]
+    },
+    "900-06": {
+        "team_id": "900-06",
+        "name": "李泽宝",
+        "organization": "河南农业大学",
+        "members": [
+            "李泽宝"
+        ],
+        "coach": "None",
+        "location": "教三楼900-6",
+        "group": [
+            "official"
+        ]
+    },
+    "900-08": {
+        "team_id": "900-08",
+        "name": "邓海迪",
+        "organization": "河南农业大学",
+        "members": [
+            "邓海迪"
+        ],
+        "coach": "None",
+        "location": "教三楼900-8",
+        "group": [
+            "official"
+        ]
+    },
+    "900-10": {
+        "team_id": "900-10",
+        "name": "李悦",
+        "organization": "河南农业大学",
+        "members": [
+            "李悦"
+        ],
+        "coach": "None",
+        "location": "教三楼900-10",
+        "group": [
+            "official"
+        ]
+    },
+    "900-12": {
+        "team_id": "900-12",
+        "name": "蒋翔羽",
+        "organization": "河南农业大学",
+        "members": [
+            "蒋翔羽"
+        ],
+        "coach": "None",
+        "location": "教三楼900-12",
+        "group": [
+            "official"
+        ]
+    },
+    "900-14": {
+        "team_id": "900-14",
+        "name": "魏浩宇",
+        "organization": "河南农业大学",
+        "members": [
+            "魏浩宇"
+        ],
+        "coach": "None",
+        "location": "教三楼900-14",
+        "group": [
+            "official"
+        ]
+    },
+    "900-16": {
+        "team_id": "900-16",
+        "name": "王思彤",
+        "organization": "河南农业大学",
+        "members": [
+            "王思彤"
+        ],
+        "coach": "None",
+        "location": "教三楼900-16",
+        "group": [
+            "official"
+        ]
+    },
+    "900-18": {
+        "team_id": "900-18",
+        "name": "王玉莹",
+        "organization": "河南农业大学",
+        "members": [
+            "王玉莹"
+        ],
+        "coach": "None",
+        "location": "教三楼900-18",
+        "group": [
+            "official"
+        ]
+    },
+    "900-20": {
+        "team_id": "900-20",
+        "name": "刁文星",
+        "organization": "河南农业大学",
+        "members": [
+            "刁文星"
+        ],
+        "coach": "None",
+        "location": "教三楼900-20",
+        "group": [
+            "official"
+        ]
+    },
+    "900-22": {
+        "team_id": "900-22",
+        "name": "董晓征",
+        "organization": "河南农业大学",
+        "members": [
+            "董晓征"
+        ],
+        "coach": "None",
+        "location": "教三楼900-22",
+        "group": [
+            "official"
+        ]
+    },
+    "900-24": {
+        "team_id": "900-24",
+        "name": "郭家铭",
+        "organization": "河南农业大学",
+        "members": [
+            "郭家铭"
+        ],
+        "coach": "None",
+        "location": "教三楼900-24",
+        "group": [
+            "official"
+        ]
+    },
+    "900-26": {
+        "team_id": "900-26",
+        "name": "南德昌",
+        "organization": "河南农业大学",
+        "members": [
+            "南德昌"
+        ],
+        "coach": "None",
+        "location": "教三楼900-26",
+        "group": [
+            "official"
+        ]
+    },
+    "900-28": {
+        "team_id": "900-28",
+        "name": "张宸玮",
+        "organization": "河南农业大学",
+        "members": [
+            "张宸玮"
+        ],
+        "coach": "None",
+        "location": "教三楼900-28",
+        "group": [
+            "official"
+        ]
+    },
+    "900-30": {
+        "team_id": "900-30",
+        "name": "常学谦",
+        "organization": "河南农业大学",
+        "members": [
+            "常学谦"
+        ],
+        "coach": "None",
+        "location": "教三楼900-30",
+        "group": [
+            "official"
+        ]
+    },
+    "900-32": {
+        "team_id": "900-32",
+        "name": "李伊林",
+        "organization": "河南农业大学",
+        "members": [
+            "李伊林"
+        ],
+        "coach": "None",
+        "location": "教三楼900-32",
+        "group": [
+            "official"
+        ]
+    },
+    "900-34": {
+        "team_id": "900-34",
+        "name": "娄家铭",
+        "organization": "河南农业大学",
+        "members": [
+            "娄家铭"
+        ],
+        "coach": "None",
+        "location": "教三楼900-34",
+        "group": [
+            "official"
+        ]
+    },
+    "900-36": {
+        "team_id": "900-36",
+        "name": "马浩然",
+        "organization": "河南农业大学",
+        "members": [
+            "马浩然"
+        ],
+        "coach": "None",
+        "location": "教三楼900-36",
+        "group": [
+            "official"
+        ]
+    },
+    "900-38": {
+        "team_id": "900-38",
+        "name": "王昊晨",
+        "organization": "河南农业大学",
+        "members": [
+            "王昊晨"
+        ],
+        "coach": "None",
+        "location": "教三楼900-38",
+        "group": [
+            "official"
+        ]
+    },
+    "900-40": {
+        "team_id": "900-40",
+        "name": "杨光",
+        "organization": "河南农业大学",
+        "members": [
+            "杨光"
+        ],
+        "coach": "None",
+        "location": "教三楼900-40",
+        "group": [
+            "official"
+        ]
+    },
+    "900-42": {
+        "team_id": "900-42",
+        "name": "梁朝晖",
+        "organization": "郑州经贸学院",
+        "members": [
+            "梁朝晖"
+        ],
+        "coach": "None",
+        "location": "教三楼900-42",
+        "group": [
+            "official"
+        ]
+    },
+    "900-44": {
+        "team_id": "900-44",
+        "name": "周伟良",
+        "organization": "郑州经贸学院",
+        "members": [
+            "周伟良"
+        ],
+        "coach": "None",
+        "location": "教三楼900-44",
+        "group": [
+            "official"
+        ]
+    },
+    "900-46": {
+        "team_id": "900-46",
+        "name": "田文琪",
+        "organization": "郑州经贸学院",
+        "members": [
+            "田文琪"
+        ],
+        "coach": "None",
+        "location": "教三楼900-46",
+        "group": [
+            "official"
+        ]
+    },
+    "900-48": {
+        "team_id": "900-48",
+        "name": "王玮",
+        "organization": "郑州经贸学院",
+        "members": [
+            "王玮"
+        ],
+        "coach": "None",
+        "location": "教三楼900-48",
+        "group": [
+            "official"
+        ]
+    },
+    "900-50": {
+        "team_id": "900-50",
+        "name": "巩俊哲",
+        "organization": "郑州经贸学院",
+        "members": [
+            "巩俊哲"
+        ],
+        "coach": "None",
+        "location": "教三楼900-50",
+        "group": [
+            "official"
+        ]
+    },
+    "900-52": {
+        "team_id": "900-52",
+        "name": "樊智鑫",
+        "organization": "郑州经贸学院",
+        "members": [
+            "樊智鑫"
+        ],
+        "coach": "None",
+        "location": "教三楼900-52",
+        "group": [
+            "official"
+        ]
+    },
+    "900-54": {
+        "team_id": "900-54",
+        "name": "王苒阳",
+        "organization": "郑州经贸学院",
+        "members": [
+            "王苒阳"
+        ],
+        "coach": "None",
+        "location": "教三楼900-54",
+        "group": [
+            "official"
+        ]
+    },
+    "900-56": {
+        "team_id": "900-56",
+        "name": "刘越强",
+        "organization": "郑州经贸学院",
+        "members": [
+            "刘越强"
+        ],
+        "coach": "None",
+        "location": "教三楼900-56",
+        "group": [
+            "official"
+        ]
+    },
+    "900-58": {
+        "team_id": "900-58",
+        "name": "田盛源",
+        "organization": "郑州经贸学院",
+        "members": [
+            "田盛源"
+        ],
+        "coach": "None",
+        "location": "教三楼900-58",
+        "group": [
+            "official"
+        ]
+    },
+    "900-60": {
+        "team_id": "900-60",
+        "name": "袁浩坤",
+        "organization": "郑州经贸学院",
+        "members": [
+            "袁浩坤"
+        ],
+        "coach": "None",
+        "location": "教三楼900-60",
+        "group": [
+            "official"
+        ]
+    },
+    "904-02": {
+        "team_id": "904-02",
+        "name": "毛睿",
+        "organization": "郑州大学",
+        "members": [
+            "毛睿"
+        ],
+        "coach": "None",
+        "location": "教三楼904-2",
+        "group": [
+            "official"
+        ]
+    },
+    "904-04": {
+        "team_id": "904-04",
+        "name": "王孟超",
+        "organization": "郑州大学",
+        "members": [
+            "王孟超"
+        ],
+        "coach": "None",
+        "location": "教三楼904-4",
+        "group": [
+            "official"
+        ]
+    },
+    "904-06": {
+        "team_id": "904-06",
+        "name": "郑明辉",
+        "organization": "郑州大学",
+        "members": [
+            "郑明辉"
+        ],
+        "coach": "None",
+        "location": "教三楼904-6",
+        "group": [
+            "official"
+        ]
+    },
+    "904-08": {
+        "team_id": "904-08",
+        "name": "王朔淇",
+        "organization": "郑州大学",
+        "members": [
+            "王朔淇"
+        ],
+        "coach": "None",
+        "location": "教三楼904-8",
+        "group": [
+            "official"
+        ]
+    },
+    "904-10": {
+        "team_id": "904-10",
+        "name": "唐博",
+        "organization": "郑州大学",
+        "members": [
+            "唐博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-10",
+        "group": [
+            "official"
+        ]
+    },
+    "904-12": {
+        "team_id": "904-12",
+        "name": "杜霖",
+        "organization": "郑州大学",
+        "members": [
+            "杜霖"
+        ],
+        "coach": "None",
+        "location": "教三楼904-12",
+        "group": [
+            "official"
+        ]
+    },
+    "904-14": {
+        "team_id": "904-14",
+        "name": "胡宏波",
+        "organization": "郑州大学",
+        "members": [
+            "胡宏波"
+        ],
+        "coach": "None",
+        "location": "教三楼904-14",
+        "group": [
+            "official"
+        ]
+    },
+    "904-16": {
+        "team_id": "904-16",
+        "name": "姬冠成",
+        "organization": "郑州大学",
+        "members": [
+            "姬冠成"
+        ],
+        "coach": "None",
+        "location": "教三楼904-16",
+        "group": [
+            "official"
+        ]
+    },
+    "904-18": {
+        "team_id": "904-18",
+        "name": "侯雨欣",
+        "organization": "郑州大学",
+        "members": [
+            "侯雨欣"
+        ],
+        "coach": "None",
+        "location": "教三楼904-18",
+        "group": [
+            "official"
+        ]
+    },
+    "904-20": {
+        "team_id": "904-20",
+        "name": "邵嘉妮",
+        "organization": "郑州大学",
+        "members": [
+            "邵嘉妮"
+        ],
+        "coach": "None",
+        "location": "教三楼904-20",
+        "group": [
+            "official"
+        ]
+    },
+    "904-22": {
+        "team_id": "904-22",
+        "name": "王涵",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "王涵"
+        ],
+        "coach": "None",
+        "location": "教三楼904-22",
+        "group": [
+            "official"
+        ]
+    },
+    "904-24": {
+        "team_id": "904-24",
+        "name": "刘思甜",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "刘思甜"
+        ],
+        "coach": "None",
+        "location": "教三楼904-24",
+        "group": [
+            "official"
+        ]
+    },
+    "904-26": {
+        "team_id": "904-26",
+        "name": "张文博",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "张文博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-26",
+        "group": [
+            "official"
+        ]
+    },
+    "904-28": {
+        "team_id": "904-28",
+        "name": "李昊阳",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "李昊阳"
+        ],
+        "coach": "None",
+        "location": "教三楼904-28",
+        "group": [
+            "official"
+        ]
+    },
+    "904-30": {
+        "team_id": "904-30",
+        "name": "尚敬博",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "尚敬博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-30",
+        "group": [
+            "official"
+        ]
+    },
+    "904-32": {
+        "team_id": "904-32",
+        "name": "宋佳希",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "宋佳希"
+        ],
+        "coach": "None",
+        "location": "教三楼904-32",
+        "group": [
+            "official"
+        ]
+    },
+    "904-34": {
+        "team_id": "904-34",
+        "name": "刘奕凡",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "刘奕凡"
+        ],
+        "coach": "None",
+        "location": "教三楼904-34",
+        "group": [
+            "official"
+        ]
+    },
+    "904-36": {
+        "team_id": "904-36",
+        "name": "刘健豪",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "刘健豪"
+        ],
+        "coach": "None",
+        "location": "教三楼904-36",
+        "group": [
+            "official"
+        ]
+    },
+    "904-38": {
+        "team_id": "904-38",
+        "name": "何浩浩",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "何浩浩"
+        ],
+        "coach": "None",
+        "location": "教三楼904-38",
+        "group": [
+            "official"
+        ]
+    },
+    "904-40": {
+        "team_id": "904-40",
+        "name": "龚如意",
+        "organization": "河南牧业经济学院",
+        "members": [
+            "龚如意"
+        ],
+        "coach": "None",
+        "location": "教三楼904-40",
+        "group": [
+            "official"
+        ]
+    },
+    "904-42": {
+        "team_id": "904-42",
+        "name": "白镇豪",
+        "organization": "河南工业大学",
+        "members": [
+            "白镇豪"
+        ],
+        "coach": "None",
+        "location": "教三楼904-42",
+        "group": [
+            "official"
+        ]
+    },
+    "904-44": {
+        "team_id": "904-44",
+        "name": "闫兆森",
+        "organization": "河南工业大学",
+        "members": [
+            "闫兆森"
+        ],
+        "coach": "None",
+        "location": "教三楼904-44",
+        "group": [
+            "official"
+        ]
+    },
+    "904-46": {
+        "team_id": "904-46",
+        "name": "程顺",
+        "organization": "河南工业大学",
+        "members": [
+            "程顺"
+        ],
+        "coach": "None",
+        "location": "教三楼904-46",
+        "group": [
+            "official"
+        ]
+    },
+    "904-48": {
+        "team_id": "904-48",
+        "name": "远明威",
+        "organization": "河南工业大学",
+        "members": [
+            "远明威"
+        ],
+        "coach": "None",
+        "location": "教三楼904-48",
+        "group": [
+            "official"
+        ]
+    },
+    "904-50": {
+        "team_id": "904-50",
+        "name": "王晨阳",
+        "organization": "河南工业大学",
+        "members": [
+            "王晨阳"
+        ],
+        "coach": "None",
+        "location": "教三楼904-50",
+        "group": [
+            "official"
+        ]
+    },
+    "904-52": {
+        "team_id": "904-52",
+        "name": "王永康",
+        "organization": "河南工业大学",
+        "members": [
+            "王永康"
+        ],
+        "coach": "None",
+        "location": "教三楼904-52",
+        "group": [
+            "official"
+        ]
+    },
+    "904-54": {
+        "team_id": "904-54",
+        "name": "王浩杰",
+        "organization": "河南工业大学",
+        "members": [
+            "王浩杰"
+        ],
+        "coach": "None",
+        "location": "教三楼904-54",
+        "group": [
+            "official"
+        ]
+    },
+    "904-56": {
+        "team_id": "904-56",
+        "name": "张文博",
+        "organization": "河南工业大学",
+        "members": [
+            "张文博"
+        ],
+        "coach": "None",
+        "location": "教三楼904-56",
+        "group": [
+            "official"
+        ]
+    },
+    "904-58": {
+        "team_id": "904-58",
+        "name": "朱英鹏",
+        "organization": "河南工业大学",
+        "members": [
+            "朱英鹏"
+        ],
+        "coach": "None",
+        "location": "教三楼904-58",
+        "group": [
+            "official"
+        ]
+    },
+    "904-60": {
+        "team_id": "904-60",
+        "name": "凡宵君",
+        "organization": "河南工业大学",
+        "members": [
+            "凡宵君"
+        ],
+        "coach": "None",
+        "location": "教三楼904-60",
+        "group": [
+            "official"
+        ]
+    },
+    "905-02": {
+        "team_id": "905-02",
+        "name": "余锦鹏",
+        "organization": "河南工程学院",
+        "members": [
+            "余锦鹏"
+        ],
+        "coach": "None",
+        "location": "教三楼905-2",
+        "group": [
+            "official"
+        ]
+    },
+    "905-04": {
+        "team_id": "905-04",
+        "name": "王东浩",
+        "organization": "河南工程学院",
+        "members": [
+            "王东浩"
+        ],
+        "coach": "None",
+        "location": "教三楼905-4",
+        "group": [
+            "official"
+        ]
+    },
+    "905-06": {
+        "team_id": "905-06",
+        "name": "马晓钰",
+        "organization": "河南工程学院",
+        "members": [
+            "马晓钰"
+        ],
+        "coach": "None",
+        "location": "教三楼905-6",
+        "group": [
+            "official"
+        ]
+    },
+    "905-08": {
+        "team_id": "905-08",
+        "name": "张运甫",
+        "organization": "河南工程学院",
+        "members": [
+            "张运甫"
+        ],
+        "coach": "None",
+        "location": "教三楼905-8",
+        "group": [
+            "official"
+        ]
+    },
+    "905-10": {
+        "team_id": "905-10",
+        "name": "李璐冰",
+        "organization": "河南工程学院",
+        "members": [
+            "李璐冰"
+        ],
+        "coach": "None",
+        "location": "教三楼905-10",
+        "group": [
+            "official"
+        ]
+    },
+    "905-12": {
+        "team_id": "905-12",
+        "name": "张晴晴",
+        "organization": "河南工程学院",
+        "members": [
+            "张晴晴"
+        ],
+        "coach": "None",
+        "location": "教三楼905-12",
+        "group": [
+            "official"
+        ]
+    },
+    "905-14": {
+        "team_id": "905-14",
+        "name": "李文洋",
+        "organization": "河南工程学院",
+        "members": [
+            "李文洋"
+        ],
+        "coach": "None",
+        "location": "教三楼905-14",
+        "group": [
+            "official"
+        ]
+    },
+    "905-16": {
+        "team_id": "905-16",
+        "name": "张子洲",
+        "organization": "河南工程学院",
+        "members": [
+            "张子洲"
+        ],
+        "coach": "None",
+        "location": "教三楼905-16",
+        "group": [
+            "official"
+        ]
+    },
+    "905-18": {
+        "team_id": "905-18",
+        "name": "林琪竣",
+        "organization": "河南工程学院",
+        "members": [
+            "林琪竣"
+        ],
+        "coach": "None",
+        "location": "教三楼905-18",
+        "group": [
+            "official"
+        ]
+    },
+    "905-20": {
+        "team_id": "905-20",
+        "name": "黄啸天",
+        "organization": "河南工程学院",
+        "members": [
+            "黄啸天"
+        ],
+        "coach": "None",
+        "location": "教三楼905-20",
+        "group": [
+            "official"
+        ]
+    },
+    "905-22": {
+        "team_id": "905-22",
+        "name": "邢倪闻",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "邢倪闻"
+        ],
+        "coach": "None",
+        "location": "教三楼905-22",
+        "group": [
+            "official"
+        ]
+    },
+    "905-24": {
+        "team_id": "905-24",
+        "name": "宋志毅",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "宋志毅"
+        ],
+        "coach": "None",
+        "location": "教三楼905-24",
+        "group": [
+            "official"
+        ]
+    },
+    "905-26": {
+        "team_id": "905-26",
+        "name": "马海正",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "马海正"
+        ],
+        "coach": "None",
+        "location": "教三楼905-26",
+        "group": [
+            "official"
+        ]
+    },
+    "905-28": {
+        "team_id": "905-28",
+        "name": "陈佳丽",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "陈佳丽"
+        ],
+        "coach": "None",
+        "location": "教三楼905-28",
+        "group": [
+            "official"
+        ]
+    },
+    "905-30": {
+        "team_id": "905-30",
+        "name": "余佳琦",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "余佳琦"
+        ],
+        "coach": "None",
+        "location": "教三楼905-30",
+        "group": [
+            "official"
+        ]
+    },
+    "905-32": {
+        "team_id": "905-32",
+        "name": "张一博",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "张一博"
+        ],
+        "coach": "None",
+        "location": "教三楼905-32",
+        "group": [
+            "official"
+        ]
+    },
+    "905-34": {
+        "team_id": "905-34",
+        "name": "李光照",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "李光照"
+        ],
+        "coach": "None",
+        "location": "教三楼905-34",
+        "group": [
+            "official"
+        ]
+    },
+    "905-36": {
+        "team_id": "905-36",
+        "name": "华天浩",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "华天浩"
+        ],
+        "coach": "None",
+        "location": "教三楼905-36",
+        "group": [
+            "official"
+        ]
+    },
+    "905-38": {
+        "team_id": "905-38",
+        "name": "刘素豪",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "刘素豪"
+        ],
+        "coach": "None",
+        "location": "教三楼905-38",
+        "group": [
+            "official"
+        ]
+    },
+    "905-40": {
+        "team_id": "905-40",
+        "name": "谢筱然",
+        "organization": "郑州升达经贸管理学院",
+        "members": [
+            "谢筱然"
+        ],
+        "coach": "None",
+        "location": "教三楼905-40",
+        "group": [
+            "official"
+        ]
+    },
+    "905-42": {
+        "team_id": "905-42",
+        "name": "袁彬哲",
+        "organization": "中原工学院",
+        "members": [
+            "袁彬哲"
+        ],
+        "coach": "None",
+        "location": "教三楼905-42",
+        "group": [
+            "official"
+        ]
+    },
+    "905-44": {
+        "team_id": "905-44",
+        "name": "吴蒙蒙",
+        "organization": "中原工学院",
+        "members": [
+            "吴蒙蒙"
+        ],
+        "coach": "None",
+        "location": "教三楼905-44",
+        "group": [
+            "official"
+        ]
+    },
+    "905-46": {
+        "team_id": "905-46",
+        "name": "王奕众",
+        "organization": "中原工学院",
+        "members": [
+            "王奕众"
+        ],
+        "coach": "None",
+        "location": "教三楼905-46",
+        "group": [
+            "official"
+        ]
+    },
+    "905-48": {
+        "team_id": "905-48",
+        "name": "印秋锦",
+        "organization": "中原工学院",
+        "members": [
+            "印秋锦"
+        ],
+        "coach": "None",
+        "location": "教三楼905-48",
+        "group": [
+            "official"
+        ]
+    },
+    "905-50": {
+        "team_id": "905-50",
+        "name": "张景杨",
+        "organization": "中原工学院",
+        "members": [
+            "张景杨"
+        ],
+        "coach": "None",
+        "location": "教三楼905-50",
+        "group": [
+            "official"
+        ]
+    },
+    "905-52": {
+        "team_id": "905-52",
+        "name": "崔源",
+        "organization": "中原工学院",
+        "members": [
+            "崔源"
+        ],
+        "coach": "None",
+        "location": "教三楼905-52",
+        "group": [
+            "official"
+        ]
+    },
+    "905-54": {
+        "team_id": "905-54",
+        "name": "李培宣",
+        "organization": "中原工学院",
+        "members": [
+            "李培宣"
+        ],
+        "coach": "None",
+        "location": "教三楼905-54",
+        "group": [
+            "official"
+        ]
+    },
+    "905-56": {
+        "team_id": "905-56",
+        "name": "王琪歌",
+        "organization": "中原工学院",
+        "members": [
+            "王琪歌"
+        ],
+        "coach": "None",
+        "location": "教三楼905-56",
+        "group": [
+            "official"
+        ]
+    },
+    "905-58": {
+        "team_id": "905-58",
+        "name": "牛见青",
+        "organization": "河南工业大学",
+        "members": [
+            "牛见青"
+        ],
+        "coach": "None",
+        "location": "教三楼905-58",
+        "group": [
+            "official"
+        ]
+    },
+    "905-60": {
+        "team_id": "905-60",
+        "name": "王伟立",
+        "organization": "河南工业大学",
+        "members": [
+            "王伟立"
+        ],
+        "coach": "None",
+        "location": "教三楼905-60",
+        "group": [
+            "official"
+        ]
+    },
+    "910-02": {
+        "team_id": "910-02",
+        "name": "张骏",
+        "organization": "河南工业大学",
+        "members": [
+            "张骏"
+        ],
+        "coach": "None",
+        "location": "教三楼910-2",
+        "group": [
+            "official"
+        ]
+    },
+    "910-04": {
+        "team_id": "910-04",
+        "name": "刘浩",
+        "organization": "河南工业大学",
+        "members": [
+            "刘浩"
+        ],
+        "coach": "None",
+        "location": "教三楼910-4",
+        "group": [
+            "official"
+        ]
+    },
+    "910-06": {
+        "team_id": "910-06",
+        "name": "闫逸飞",
+        "organization": "河南工业大学",
+        "members": [
+            "闫逸飞"
+        ],
+        "coach": "None",
+        "location": "教三楼910-6",
+        "group": [
+            "official"
+        ]
+    },
+    "910-08": {
+        "team_id": "910-08",
+        "name": "申博宇",
+        "organization": "河南工业大学",
+        "members": [
+            "申博宇"
+        ],
+        "coach": "None",
+        "location": "教三楼910-8",
+        "group": [
+            "official"
+        ]
+    },
+    "910-10": {
+        "team_id": "910-10",
+        "name": "高旭",
+        "organization": "河南工业大学",
+        "members": [
+            "高旭"
+        ],
+        "coach": "None",
+        "location": "教三楼910-10",
+        "group": [
+            "official"
+        ]
+    },
+    "910-12": {
+        "team_id": "910-12",
+        "name": "张康发",
+        "organization": "河南工业大学",
+        "members": [
+            "张康发"
+        ],
+        "coach": "None",
+        "location": "教三楼910-12",
+        "group": [
+            "official"
+        ]
+    },
+    "910-14": {
+        "team_id": "910-14",
+        "name": "袁林坤",
+        "organization": "河南工业大学",
+        "members": [
+            "袁林坤"
+        ],
+        "coach": "None",
+        "location": "教三楼910-14",
+        "group": [
+            "official"
+        ]
+    },
+    "910-16": {
+        "team_id": "910-16",
+        "name": "王向杰",
+        "organization": "河南工业大学",
+        "members": [
+            "王向杰"
+        ],
+        "coach": "None",
+        "location": "教三楼910-16",
+        "group": [
+            "official"
+        ]
+    },
+    "910-18": {
+        "team_id": "910-18",
+        "name": "张雪豪",
+        "organization": "河南工业大学",
+        "members": [
+            "张雪豪"
+        ],
+        "coach": "None",
+        "location": "教三楼910-18",
+        "group": [
+            "official"
+        ]
+    },
+    "910-20": {
+        "team_id": "910-20",
+        "name": "杨宇帆",
+        "organization": "河南工业大学",
+        "members": [
+            "杨宇帆"
+        ],
+        "coach": "None",
+        "location": "教三楼910-20",
+        "group": [
+            "official"
+        ]
+    },
+    "910-22": {
+        "team_id": "910-22",
+        "name": "崔润霖",
+        "organization": "河南工程学院",
+        "members": [
+            "崔润霖"
+        ],
+        "coach": "None",
+        "location": "教三楼910-22",
+        "group": [
+            "official"
+        ]
+    },
+    "910-24": {
+        "team_id": "910-24",
+        "name": "秦子明",
+        "organization": "河南工程学院",
+        "members": [
+            "秦子明"
+        ],
+        "coach": "None",
+        "location": "教三楼910-24",
+        "group": [
+            "official"
+        ]
+    },
+    "910-26": {
+        "team_id": "910-26",
+        "name": "贾坤",
+        "organization": "河南工程学院",
+        "members": [
+            "贾坤"
+        ],
+        "coach": "None",
+        "location": "教三楼910-26",
+        "group": [
+            "official"
+        ]
+    },
+    "910-28": {
+        "team_id": "910-28",
+        "name": "李涵",
+        "organization": "河南工程学院",
+        "members": [
+            "李涵"
+        ],
+        "coach": "None",
+        "location": "教三楼910-28",
+        "group": [
+            "official"
+        ]
+    },
+    "910-30": {
+        "team_id": "910-30",
+        "name": "王大鹏",
+        "organization": "河南工程学院",
+        "members": [
+            "王大鹏"
+        ],
+        "coach": "None",
+        "location": "教三楼910-30",
+        "group": [
+            "official"
+        ]
+    },
+    "910-32": {
+        "team_id": "910-32",
+        "name": "陈瑾",
+        "organization": "河南工程学院",
+        "members": [
+            "陈瑾"
+        ],
+        "coach": "None",
+        "location": "教三楼910-32",
+        "group": [
+            "official"
+        ]
+    },
+    "910-34": {
+        "team_id": "910-34",
+        "name": "王星画",
+        "organization": "河南工程学院",
+        "members": [
+            "王星画"
+        ],
+        "coach": "None",
+        "location": "教三楼910-34",
+        "group": [
+            "official"
+        ]
+    },
+    "910-36": {
+        "team_id": "910-36",
+        "name": "张必岩",
+        "organization": "河南工程学院",
+        "members": [
+            "张必岩"
+        ],
+        "coach": "None",
+        "location": "教三楼910-36",
+        "group": [
+            "official"
+        ]
+    },
+    "910-38": {
+        "team_id": "910-38",
+        "name": "谢昊翔",
+        "organization": "河南工程学院",
+        "members": [
+            "谢昊翔"
+        ],
+        "coach": "None",
+        "location": "教三楼910-38",
+        "group": [
+            "official"
+        ]
+    },
+    "910-40": {
+        "team_id": "910-40",
+        "name": "周子航",
+        "organization": "河南工程学院",
+        "members": [
+            "周子航"
+        ],
+        "coach": "None",
+        "location": "教三楼910-44",
+        "group": [
+            "official"
+        ]
+    },
+    "910-42": {
+        "team_id": "910-42",
+        "name": "王盈滢",
+        "organization": "河南省实验中学",
+        "members": [
+            "王盈滢"
+        ],
+        "coach": "None",
+        "location": "教三楼910-40",
+        "group": [
+            "official"
+        ]
+    },
+    "910-44": {
+        "team_id": "910-44",
+        "name": "石峥阳",
+        "organization": "河南省实验中学",
+        "members": [
+            "石峥阳"
+        ],
+        "coach": "None",
+        "location": "教三楼910-42",
+        "group": [
+            "official"
+        ]
+    },
+    "online001": {
+        "team_id": "online001",
+        "name": "杨俊杰",
+        "organization": "信息工程大学",
+        "members": [
+            "杨俊杰"
+        ],
+        "coach": "None",
+        "location": "线上-1",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online002": {
+        "team_id": "online002",
+        "name": "王瑞雪",
+        "organization": "信息工程大学",
+        "members": [
+            "王瑞雪"
+        ],
+        "coach": "None",
+        "location": "线上-2",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online003": {
+        "team_id": "online003",
+        "name": "蔡智勋",
+        "organization": "信息工程大学",
+        "members": [
+            "蔡智勋"
+        ],
+        "coach": "None",
+        "location": "线上-3",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online004": {
+        "team_id": "online004",
+        "name": "王艺强",
+        "organization": "信息工程大学",
+        "members": [
+            "王艺强"
+        ],
+        "coach": "None",
+        "location": "线上-4",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online005": {
+        "team_id": "online005",
+        "name": "王康宁",
+        "organization": "信息工程大学",
+        "members": [
+            "王康宁"
+        ],
+        "coach": "None",
+        "location": "线上-5",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online006": {
+        "team_id": "online006",
+        "name": "林琬婷",
+        "organization": "信息工程大学",
+        "members": [
+            "林琬婷"
+        ],
+        "coach": "None",
+        "location": "线上-6",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online007": {
+        "team_id": "online007",
+        "name": "刘锦涛",
+        "organization": "信息工程大学",
+        "members": [
+            "刘锦涛"
+        ],
+        "coach": "None",
+        "location": "线上-7",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online008": {
+        "team_id": "online008",
+        "name": "张天恺",
+        "organization": "信息工程大学",
+        "members": [
+            "张天恺"
+        ],
+        "coach": "None",
+        "location": "线上-8",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online009": {
+        "team_id": "online009",
+        "name": "赵凌睿",
+        "organization": "信息工程大学",
+        "members": [
+            "赵凌睿"
+        ],
+        "coach": "None",
+        "location": "线上-9",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online010": {
+        "team_id": "online010",
+        "name": "赵益辉",
+        "organization": "安阳工学院",
+        "members": [
+            "赵益辉"
+        ],
+        "coach": "None",
+        "location": "线上-10",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online011": {
+        "team_id": "online011",
+        "name": "鲁昕阳",
+        "organization": "安阳工学院",
+        "members": [
+            "鲁昕阳"
+        ],
+        "coach": "None",
+        "location": "线上-11",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online012": {
+        "team_id": "online012",
+        "name": "张龙飞",
+        "organization": "安阳工学院",
+        "members": [
+            "张龙飞"
+        ],
+        "coach": "None",
+        "location": "线上-12",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online013": {
+        "team_id": "online013",
+        "name": "刘晓龙",
+        "organization": "安阳工学院",
+        "members": [
+            "刘晓龙"
+        ],
+        "coach": "None",
+        "location": "线上-13",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online014": {
+        "team_id": "online014",
+        "name": "秦思远",
+        "organization": "安阳工学院",
+        "members": [
+            "秦思远"
+        ],
+        "coach": "None",
+        "location": "线上-14",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online015": {
+        "team_id": "online015",
+        "name": "王胜举",
+        "organization": "安阳工学院",
+        "members": [
+            "王胜举"
+        ],
+        "coach": "None",
+        "location": "线上-15",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online016": {
+        "team_id": "online016",
+        "name": "张金博",
+        "organization": "安阳工学院",
+        "members": [
+            "张金博"
+        ],
+        "coach": "None",
+        "location": "线上-16",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online017": {
+        "team_id": "online017",
+        "name": "裴武珂",
+        "organization": "安阳工学院",
+        "members": [
+            "裴武珂"
+        ],
+        "coach": "None",
+        "location": "线上-17",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online018": {
+        "team_id": "online018",
+        "name": "侯帅鹏",
+        "organization": "安阳工学院",
+        "members": [
+            "侯帅鹏"
+        ],
+        "coach": "None",
+        "location": "线上-18",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online019": {
+        "team_id": "online019",
+        "name": "冯鼎",
+        "organization": "安阳工学院",
+        "members": [
+            "冯鼎"
+        ],
+        "coach": "None",
+        "location": "线上-19",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online020": {
+        "team_id": "online020",
+        "name": "张昊宇",
+        "organization": "郑州商学院",
+        "members": [
+            "张昊宇"
+        ],
+        "coach": "None",
+        "location": "线上-20",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online021": {
+        "team_id": "online021",
+        "name": "林睿军",
+        "organization": "郑州商学院",
+        "members": [
+            "林睿军"
+        ],
+        "coach": "None",
+        "location": "线上-21",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online022": {
+        "team_id": "online022",
+        "name": "孟家轩",
+        "organization": "郑州商学院",
+        "members": [
+            "孟家轩"
+        ],
+        "coach": "None",
+        "location": "线上-22",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online023": {
+        "team_id": "online023",
+        "name": "尹朝路",
+        "organization": "郑州商学院",
+        "members": [
+            "尹朝路"
+        ],
+        "coach": "None",
+        "location": "线上-23",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online024": {
+        "team_id": "online024",
+        "name": "闫峪豪",
+        "organization": "郑州商学院",
+        "members": [
+            "闫峪豪"
+        ],
+        "coach": "None",
+        "location": "线上-24",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online025": {
+        "team_id": "online025",
+        "name": "杨路",
+        "organization": "郑州商学院",
+        "members": [
+            "杨路"
+        ],
+        "coach": "None",
+        "location": "线上-25",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online026": {
+        "team_id": "online026",
+        "name": "徐小龙",
+        "organization": "郑州商学院",
+        "members": [
+            "徐小龙"
+        ],
+        "coach": "None",
+        "location": "线上-26",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online027": {
+        "team_id": "online027",
+        "name": "黄功胜",
+        "organization": "郑州商学院",
+        "members": [
+            "黄功胜"
+        ],
+        "coach": "None",
+        "location": "线上-27",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online028": {
+        "team_id": "online028",
+        "name": "陈籽龙",
+        "organization": "郑州商学院",
+        "members": [
+            "陈籽龙"
+        ],
+        "coach": "None",
+        "location": "线上-28",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online029": {
+        "team_id": "online029",
+        "name": "李凯波",
+        "organization": "郑州商学院",
+        "members": [
+            "李凯波"
+        ],
+        "coach": "None",
+        "location": "线上-29",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online030": {
+        "team_id": "online030",
+        "name": "张朝阳",
+        "organization": "郑州工商学院",
+        "members": [
+            "张朝阳"
+        ],
+        "coach": "None",
+        "location": "线上-30",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online031": {
+        "team_id": "online031",
+        "name": "冯泽泽",
+        "organization": "郑州工商学院",
+        "members": [
+            "冯泽泽"
+        ],
+        "coach": "None",
+        "location": "线上-31",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online032": {
+        "team_id": "online032",
+        "name": "李继红",
+        "organization": "郑州工商学院",
+        "members": [
+            "李继红"
+        ],
+        "coach": "None",
+        "location": "线上-32",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online033": {
+        "team_id": "online033",
+        "name": "郑元梁",
+        "organization": "郑州工商学院",
+        "members": [
+            "郑元梁"
+        ],
+        "coach": "None",
+        "location": "线上-33",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online034": {
+        "team_id": "online034",
+        "name": "王烨凡",
+        "organization": "郑州工商学院",
+        "members": [
+            "王烨凡"
+        ],
+        "coach": "None",
+        "location": "线上-34",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online035": {
+        "team_id": "online035",
+        "name": "刘恒言",
+        "organization": "郑州工商学院",
+        "members": [
+            "刘恒言"
+        ],
+        "coach": "None",
+        "location": "线上-35",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online036": {
+        "team_id": "online036",
+        "name": "张梦凡",
+        "organization": "郑州工商学院",
+        "members": [
+            "张梦凡"
+        ],
+        "coach": "None",
+        "location": "线上-36",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online037": {
+        "team_id": "online037",
+        "name": "许志浩",
+        "organization": "郑州工商学院",
+        "members": [
+            "许志浩"
+        ],
+        "coach": "None",
+        "location": "线上-37",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online038": {
+        "team_id": "online038",
+        "name": "李俊杰",
+        "organization": "河南城建学院",
+        "members": [
+            "李俊杰"
+        ],
+        "coach": "None",
+        "location": "线上-38",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online039": {
+        "team_id": "online039",
+        "name": "高雨梦",
+        "organization": "河南城建学院",
+        "members": [
+            "高雨梦"
+        ],
+        "coach": "None",
+        "location": "线上-39",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online040": {
+        "team_id": "online040",
+        "name": "穆帅涛",
+        "organization": "河南城建学院",
+        "members": [
+            "穆帅涛"
+        ],
+        "coach": "None",
+        "location": "线上-40",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online041": {
+        "team_id": "online041",
+        "name": "梁志源",
+        "organization": "河南城建学院",
+        "members": [
+            "梁志源"
+        ],
+        "coach": "None",
+        "location": "线上-41",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online042": {
+        "team_id": "online042",
+        "name": "张林豪",
+        "organization": "河南城建学院",
+        "members": [
+            "张林豪"
+        ],
+        "coach": "None",
+        "location": "线上-42",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online043": {
+        "team_id": "online043",
+        "name": "王庆博",
+        "organization": "河南城建学院",
+        "members": [
+            "王庆博"
+        ],
+        "coach": "None",
+        "location": "线上-43",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online044": {
+        "team_id": "online044",
+        "name": "张识博",
+        "organization": "河南城建学院",
+        "members": [
+            "张识博"
+        ],
+        "coach": "None",
+        "location": "线上-44",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online045": {
+        "team_id": "online045",
+        "name": "仵天琦",
+        "organization": "河南城建学院",
+        "members": [
+            "仵天琦"
+        ],
+        "coach": "None",
+        "location": "线上-45",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online046": {
+        "team_id": "online046",
+        "name": "王宇扬",
+        "organization": "河南城建学院",
+        "members": [
+            "王宇扬"
+        ],
+        "coach": "None",
+        "location": "线上-46",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online047": {
+        "team_id": "online047",
+        "name": "郭昊轩",
+        "organization": "河南城建学院",
+        "members": [
+            "郭昊轩"
+        ],
+        "coach": "None",
+        "location": "线上-47",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online048": {
+        "team_id": "online048",
+        "name": "鲁新飞",
+        "organization": "河南城建学院",
+        "members": [
+            "鲁新飞"
+        ],
+        "coach": "None",
+        "location": "线上-48",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online049": {
+        "team_id": "online049",
+        "name": "江延森",
+        "organization": "许昌学院",
+        "members": [
+            "江延森"
+        ],
+        "coach": "None",
+        "location": "线上-49",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online050": {
+        "team_id": "online050",
+        "name": "何宝亮",
+        "organization": "许昌学院",
+        "members": [
+            "何宝亮"
+        ],
+        "coach": "None",
+        "location": "线上-50",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online051": {
+        "team_id": "online051",
+        "name": "王俊艳",
+        "organization": "许昌学院",
+        "members": [
+            "王俊艳"
+        ],
+        "coach": "None",
+        "location": "线上-51",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online052": {
+        "team_id": "online052",
+        "name": "龚艺海",
+        "organization": "许昌学院",
+        "members": [
+            "龚艺海"
+        ],
+        "coach": "None",
+        "location": "线上-52",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online053": {
+        "team_id": "online053",
+        "name": "马诗轩",
+        "organization": "许昌学院",
+        "members": [
+            "马诗轩"
+        ],
+        "coach": "None",
+        "location": "线上-53",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online054": {
+        "team_id": "online054",
+        "name": "邵杰",
+        "organization": "许昌学院",
+        "members": [
+            "邵杰"
+        ],
+        "coach": "None",
+        "location": "线上-54",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online055": {
+        "team_id": "online055",
+        "name": "王云磊",
+        "organization": "许昌学院",
+        "members": [
+            "王云磊"
+        ],
+        "coach": "None",
+        "location": "线上-55",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online056": {
+        "team_id": "online056",
+        "name": "李祎龙",
+        "organization": "许昌学院",
+        "members": [
+            "李祎龙"
+        ],
+        "coach": "None",
+        "location": "线上-56",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online057": {
+        "team_id": "online057",
+        "name": "梁桂宾",
+        "organization": "许昌学院",
+        "members": [
+            "梁桂宾"
+        ],
+        "coach": "None",
+        "location": "线上-57",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online058": {
+        "team_id": "online058",
+        "name": "张育斌",
+        "organization": "许昌学院",
+        "members": [
+            "张育斌"
+        ],
+        "coach": "None",
+        "location": "线上-58",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online059": {
+        "team_id": "online059",
+        "name": "张俊锋",
+        "organization": "黄淮学院",
+        "members": [
+            "张俊锋"
+        ],
+        "coach": "None",
+        "location": "线上-59",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online060": {
+        "team_id": "online060",
+        "name": "温侃",
+        "organization": "黄淮学院",
+        "members": [
+            "温侃"
+        ],
+        "coach": "None",
+        "location": "线上-60",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online061": {
+        "team_id": "online061",
+        "name": "赵文浩",
+        "organization": "黄淮学院",
+        "members": [
+            "赵文浩"
+        ],
+        "coach": "None",
+        "location": "线上-61",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online062": {
+        "team_id": "online062",
+        "name": "郑智翔",
+        "organization": "黄淮学院",
+        "members": [
+            "郑智翔"
+        ],
+        "coach": "None",
+        "location": "线上-62",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online063": {
+        "team_id": "online063",
+        "name": "梁景晖",
+        "organization": "黄淮学院",
+        "members": [
+            "梁景晖"
+        ],
+        "coach": "None",
+        "location": "线上-63",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online064": {
+        "team_id": "online064",
+        "name": "李浩楠",
+        "organization": "黄淮学院",
+        "members": [
+            "李浩楠"
+        ],
+        "coach": "None",
+        "location": "线上-64",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online065": {
+        "team_id": "online065",
+        "name": "陈钟洋",
+        "organization": "黄淮学院",
+        "members": [
+            "陈钟洋"
+        ],
+        "coach": "None",
+        "location": "线上-65",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online066": {
+        "team_id": "online066",
+        "name": "马宇轩",
+        "organization": "黄淮学院",
+        "members": [
+            "马宇轩"
+        ],
+        "coach": "None",
+        "location": "线上-66",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online067": {
+        "team_id": "online067",
+        "name": "杨霖",
+        "organization": "黄淮学院",
+        "members": [
+            "杨霖"
+        ],
+        "coach": "None",
+        "location": "线上-67",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online068": {
+        "team_id": "online068",
+        "name": "梁家宝",
+        "organization": "黄淮学院",
+        "members": [
+            "梁家宝"
+        ],
+        "coach": "None",
+        "location": "线上-68",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online069": {
+        "team_id": "online069",
+        "name": "张浩博",
+        "organization": "黄淮学院",
+        "members": [
+            "张浩博"
+        ],
+        "coach": "None",
+        "location": "线上-69",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online070": {
+        "team_id": "online070",
+        "name": "李鑫",
+        "organization": "黄淮学院",
+        "members": [
+            "李鑫"
+        ],
+        "coach": "None",
+        "location": "线上-70",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online071": {
+        "team_id": "online071",
+        "name": "邹佳和",
+        "organization": "黄淮学院",
+        "members": [
+            "邹佳和"
+        ],
+        "coach": "None",
+        "location": "线上-71",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online072": {
+        "team_id": "online072",
+        "name": "马嘉乐",
+        "organization": "黄淮学院",
+        "members": [
+            "马嘉乐"
+        ],
+        "coach": "None",
+        "location": "线上-72",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online073": {
+        "team_id": "online073",
+        "name": "黄浩",
+        "organization": "黄淮学院",
+        "members": [
+            "黄浩"
+        ],
+        "coach": "None",
+        "location": "线上-73",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online074": {
+        "team_id": "online074",
+        "name": "任玉杰",
+        "organization": "黄淮学院",
+        "members": [
+            "任玉杰"
+        ],
+        "coach": "None",
+        "location": "线上-74",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online075": {
+        "team_id": "online075",
+        "name": "王玮辰",
+        "organization": "黄淮学院",
+        "members": [
+            "王玮辰"
+        ],
+        "coach": "None",
+        "location": "线上-75",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online076": {
+        "team_id": "online076",
+        "name": "宋嘉欣",
+        "organization": "黄淮学院",
+        "members": [
+            "宋嘉欣"
+        ],
+        "coach": "None",
+        "location": "线上-76",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online077": {
+        "team_id": "online077",
+        "name": "刘子昂",
+        "organization": "黄淮学院",
+        "members": [
+            "刘子昂"
+        ],
+        "coach": "None",
+        "location": "线上-77",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online078": {
+        "team_id": "online078",
+        "name": "谢文杰",
+        "organization": "黄淮学院",
+        "members": [
+            "谢文杰"
+        ],
+        "coach": "None",
+        "location": "线上-78",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online079": {
+        "team_id": "online079",
+        "name": "张情涵",
+        "organization": "河南中医药大学",
+        "members": [
+            "张情涵"
+        ],
+        "coach": "None",
+        "location": "线上-79",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online080": {
+        "team_id": "online080",
+        "name": "王通",
+        "organization": "河南中医药大学",
+        "members": [
+            "王通"
+        ],
+        "coach": "None",
+        "location": "线上-80",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online081": {
+        "team_id": "online081",
+        "name": "刘巍",
+        "organization": "河南中医药大学",
+        "members": [
+            "刘巍"
+        ],
+        "coach": "None",
+        "location": "线上-81",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online082": {
+        "team_id": "online082",
+        "name": "王威然",
+        "organization": "河南中医药大学",
+        "members": [
+            "王威然"
+        ],
+        "coach": "None",
+        "location": "线上-82",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online083": {
+        "team_id": "online083",
+        "name": "周子翔",
+        "organization": "河南中医药大学",
+        "members": [
+            "周子翔"
+        ],
+        "coach": "None",
+        "location": "线上-83",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online084": {
+        "team_id": "online084",
+        "name": "王彦钊",
+        "organization": "河南理工大学",
+        "members": [
+            "王彦钊"
+        ],
+        "coach": "None",
+        "location": "线上-84",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online085": {
+        "team_id": "online085",
+        "name": "陆贤辉",
+        "organization": "河南理工大学",
+        "members": [
+            "陆贤辉"
+        ],
+        "coach": "None",
+        "location": "线上-85",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online086": {
+        "team_id": "online086",
+        "name": "陈沿桦",
+        "organization": "河南理工大学",
+        "members": [
+            "陈沿桦"
+        ],
+        "coach": "None",
+        "location": "线上-86",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online087": {
+        "team_id": "online087",
+        "name": " 黄泰钦",
+        "organization": "河南理工大学",
+        "members": [
+            " 黄泰钦"
+        ],
+        "coach": "None",
+        "location": "线上-87",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online088": {
+        "team_id": "online088",
+        "name": "杨晨熙",
+        "organization": "河南理工大学",
+        "members": [
+            "杨晨熙"
+        ],
+        "coach": "None",
+        "location": "线上-88",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online089": {
+        "team_id": "online089",
+        "name": "程赵磊",
+        "organization": "河南理工大学",
+        "members": [
+            "程赵磊"
+        ],
+        "coach": "None",
+        "location": "线上-89",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online090": {
+        "team_id": "online090",
+        "name": "宋雨杭",
+        "organization": "河南理工大学",
+        "members": [
+            "宋雨杭"
+        ],
+        "coach": "None",
+        "location": "线上-90",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online091": {
+        "team_id": "online091",
+        "name": "林智杰",
+        "organization": "河南理工大学",
+        "members": [
+            "林智杰"
+        ],
+        "coach": "None",
+        "location": "线上-91",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online092": {
+        "team_id": "online092",
+        "name": "常渊博",
+        "organization": "河南理工大学",
+        "members": [
+            "常渊博"
+        ],
+        "coach": "None",
+        "location": "线上-92",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online093": {
+        "team_id": "online093",
+        "name": "杨凯睿",
+        "organization": "河南理工大学",
+        "members": [
+            "杨凯睿"
+        ],
+        "coach": "None",
+        "location": "线上-93",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online094": {
+        "team_id": "online094",
+        "name": "范乃威",
+        "organization": "河南科技大学",
+        "members": [
+            "范乃威"
+        ],
+        "coach": "None",
+        "location": "线上-94",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online095": {
+        "team_id": "online095",
+        "name": "韩永佳",
+        "organization": "河南科技大学",
+        "members": [
+            "韩永佳"
+        ],
+        "coach": "None",
+        "location": "线上-95",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online096": {
+        "team_id": "online096",
+        "name": "王则文",
+        "organization": "河南科技大学",
+        "members": [
+            "王则文"
+        ],
+        "coach": "None",
+        "location": "线上-96",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online097": {
+        "team_id": "online097",
+        "name": "张文欣",
+        "organization": "河南科技大学",
+        "members": [
+            "张文欣"
+        ],
+        "coach": "None",
+        "location": "线上-97",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online098": {
+        "team_id": "online098",
+        "name": "彭程",
+        "organization": "河南科技大学",
+        "members": [
+            "彭程"
+        ],
+        "coach": "None",
+        "location": "线上-98",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online099": {
+        "team_id": "online099",
+        "name": "朱首航",
+        "organization": "河南科技大学",
+        "members": [
+            "朱首航"
+        ],
+        "coach": "None",
+        "location": "线上-99",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online100": {
+        "team_id": "online100",
+        "name": "陈昱锦",
+        "organization": "河南科技大学",
+        "members": [
+            "陈昱锦"
+        ],
+        "coach": "None",
+        "location": "线上-100",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online101": {
+        "team_id": "online101",
+        "name": "姬厚真鑫",
+        "organization": "河南科技大学",
+        "members": [
+            "姬厚真鑫"
+        ],
+        "coach": "None",
+        "location": "线上-101",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online102": {
+        "team_id": "online102",
+        "name": "王麒翔",
+        "organization": "河南科技大学",
+        "members": [
+            "王麒翔"
+        ],
+        "coach": "None",
+        "location": "线上-102",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online103": {
+        "team_id": "online103",
+        "name": "张茜雅",
+        "organization": "河南科技大学",
+        "members": [
+            "张茜雅"
+        ],
+        "coach": "None",
+        "location": "线上-103",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online104": {
+        "team_id": "online104",
+        "name": "庄宇哲",
+        "organization": "洛阳师范学院",
+        "members": [
+            "庄宇哲"
+        ],
+        "coach": "None",
+        "location": "线上-104",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online105": {
+        "team_id": "online105",
+        "name": "汪京平",
+        "organization": "洛阳师范学院",
+        "members": [
+            "汪京平"
+        ],
+        "coach": "None",
+        "location": "线上-105",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online106": {
+        "team_id": "online106",
+        "name": "孙奕涵",
+        "organization": "洛阳师范学院",
+        "members": [
+            "孙奕涵"
+        ],
+        "coach": "None",
+        "location": "线上-106",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online107": {
+        "team_id": "online107",
+        "name": "刘豪杰",
+        "organization": "洛阳师范学院",
+        "members": [
+            "刘豪杰"
+        ],
+        "coach": "None",
+        "location": "线上-107",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online108": {
+        "team_id": "online108",
+        "name": "陈泽锐",
+        "organization": "洛阳师范学院",
+        "members": [
+            "陈泽锐"
+        ],
+        "coach": "None",
+        "location": "线上-108",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online109": {
+        "team_id": "online109",
+        "name": "董睿颖",
+        "organization": "洛阳师范学院",
+        "members": [
+            "董睿颖"
+        ],
+        "coach": "None",
+        "location": "线上-109",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online110": {
+        "team_id": "online110",
+        "name": "王同聚",
+        "organization": "洛阳师范学院",
+        "members": [
+            "王同聚"
+        ],
+        "coach": "None",
+        "location": "线上-110",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online111": {
+        "team_id": "online111",
+        "name": "李皓冉",
+        "organization": "洛阳师范学院",
+        "members": [
+            "李皓冉"
+        ],
+        "coach": "None",
+        "location": "线上-111",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online112": {
+        "team_id": "online112",
+        "name": "赵欢琪",
+        "organization": "洛阳师范学院",
+        "members": [
+            "赵欢琪"
+        ],
+        "coach": "None",
+        "location": "线上-112",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online113": {
+        "team_id": "online113",
+        "name": "张冰鑫",
+        "organization": "洛阳师范学院",
+        "members": [
+            "张冰鑫"
+        ],
+        "coach": "None",
+        "location": "线上-113",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online114": {
+        "team_id": "online114",
+        "name": "马帅",
+        "organization": "南阳理工学院",
+        "members": [
+            "马帅"
+        ],
+        "coach": "None",
+        "location": "线上-114",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online115": {
+        "team_id": "online115",
+        "name": "袁鑫晨",
+        "organization": "南阳理工学院",
+        "members": [
+            "袁鑫晨"
+        ],
+        "coach": "None",
+        "location": "线上-115",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online116": {
+        "team_id": "online116",
+        "name": "方琴琴",
+        "organization": "南阳理工学院",
+        "members": [
+            "方琴琴"
+        ],
+        "coach": "None",
+        "location": "线上-116",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online117": {
+        "team_id": "online117",
+        "name": "任泽霖",
+        "organization": "南阳理工学院",
+        "members": [
+            "任泽霖"
+        ],
+        "coach": "None",
+        "location": "线上-117",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online118": {
+        "team_id": "online118",
+        "name": "胡婉婷",
+        "organization": "南阳理工学院",
+        "members": [
+            "胡婉婷"
+        ],
+        "coach": "None",
+        "location": "线上-118",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online119": {
+        "team_id": "online119",
+        "name": "张方明",
+        "organization": "南阳理工学院",
+        "members": [
+            "张方明"
+        ],
+        "coach": "None",
+        "location": "线上-119",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online120": {
+        "team_id": "online120",
+        "name": "陈龙",
+        "organization": "南阳理工学院",
+        "members": [
+            "陈龙"
+        ],
+        "coach": "None",
+        "location": "线上-120",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online121": {
+        "team_id": "online121",
+        "name": "张家涛",
+        "organization": "南阳理工学院",
+        "members": [
+            "张家涛"
+        ],
+        "coach": "None",
+        "location": "线上-121",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online122": {
+        "team_id": "online122",
+        "name": "孙展博",
+        "organization": "南阳理工学院",
+        "members": [
+            "孙展博"
+        ],
+        "coach": "None",
+        "location": "线上-122",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online123": {
+        "team_id": "online123",
+        "name": "徐涵钰",
+        "organization": "南阳理工学院",
+        "members": [
+            "徐涵钰"
+        ],
+        "coach": "None",
+        "location": "线上-123",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online124": {
+        "team_id": "online124",
+        "name": "任吉康",
+        "organization": "南阳理工学院",
+        "members": [
+            "任吉康"
+        ],
+        "coach": "None",
+        "location": "线上-124",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online125": {
+        "team_id": "online125",
+        "name": "哈欣",
+        "organization": "南阳理工学院",
+        "members": [
+            "哈欣"
+        ],
+        "coach": "None",
+        "location": "线上-125",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online126": {
+        "team_id": "online126",
+        "name": "李爽",
+        "organization": "南阳理工学院",
+        "members": [
+            "李爽"
+        ],
+        "coach": "None",
+        "location": "线上-126",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online127": {
+        "team_id": "online127",
+        "name": "姚涵旭",
+        "organization": "南阳理工学院",
+        "members": [
+            "姚涵旭"
+        ],
+        "coach": "None",
+        "location": "线上-127",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online128": {
+        "team_id": "online128",
+        "name": "秦焓彧",
+        "organization": "南阳理工学院",
+        "members": [
+            "秦焓彧"
+        ],
+        "coach": "None",
+        "location": "线上-128",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online129": {
+        "team_id": "online129",
+        "name": "翟皓",
+        "organization": "南阳理工学院",
+        "members": [
+            "翟皓"
+        ],
+        "coach": "None",
+        "location": "线上-129",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online130": {
+        "team_id": "online130",
+        "name": "宋忱宪",
+        "organization": "南阳理工学院",
+        "members": [
+            "宋忱宪"
+        ],
+        "coach": "None",
+        "location": "线上-130",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online131": {
+        "team_id": "online131",
+        "name": "徐禹晨",
+        "organization": "南阳理工学院",
+        "members": [
+            "徐禹晨"
+        ],
+        "coach": "None",
+        "location": "线上-131",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online132": {
+        "team_id": "online132",
+        "name": "胡汉永",
+        "organization": "南阳理工学院",
+        "members": [
+            "胡汉永"
+        ],
+        "coach": "None",
+        "location": "线上-132",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online133": {
+        "team_id": "online133",
+        "name": "袁锦",
+        "organization": "南阳理工学院",
+        "members": [
+            "袁锦"
+        ],
+        "coach": "None",
+        "location": "线上-133",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online134": {
+        "team_id": "online134",
+        "name": "乔智楠",
+        "organization": "南阳理工学院",
+        "members": [
+            "乔智楠"
+        ],
+        "coach": "None",
+        "location": "线上-134",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online135": {
+        "team_id": "online135",
+        "name": "乔俏雅",
+        "organization": "南阳理工学院",
+        "members": [
+            "乔俏雅"
+        ],
+        "coach": "None",
+        "location": "线上-135",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online136": {
+        "team_id": "online136",
+        "name": "杜佳耀",
+        "organization": "南阳理工学院",
+        "members": [
+            "杜佳耀"
+        ],
+        "coach": "None",
+        "location": "线上-136",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online137": {
+        "team_id": "online137",
+        "name": "李昊展",
+        "organization": "南阳理工学院",
+        "members": [
+            "李昊展"
+        ],
+        "coach": "None",
+        "location": "线上-137",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online138": {
+        "team_id": "online138",
+        "name": "李富强",
+        "organization": "南阳理工学院",
+        "members": [
+            "李富强"
+        ],
+        "coach": "None",
+        "location": "线上-138",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online139": {
+        "team_id": "online139",
+        "name": "赵嘉勋",
+        "organization": "南阳理工学院",
+        "members": [
+            "赵嘉勋"
+        ],
+        "coach": "None",
+        "location": "线上-139",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online140": {
+        "team_id": "online140",
+        "name": "艾家兴",
+        "organization": "南阳理工学院",
+        "members": [
+            "艾家兴"
+        ],
+        "coach": "None",
+        "location": "线上-140",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online141": {
+        "team_id": "online141",
+        "name": "陈晶晶",
+        "organization": "南阳理工学院",
+        "members": [
+            "陈晶晶"
+        ],
+        "coach": "None",
+        "location": "线上-141",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online142": {
+        "team_id": "online142",
+        "name": "任怡爽",
+        "organization": "南阳理工学院",
+        "members": [
+            "任怡爽"
+        ],
+        "coach": "None",
+        "location": "线上-142",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online143": {
+        "team_id": "online143",
+        "name": " 黄志海",
+        "organization": "华北水利水电大学",
+        "members": [
+            " 黄志海"
+        ],
+        "coach": "None",
+        "location": "线上-143",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online144": {
+        "team_id": "online144",
+        "name": "左永欣",
+        "organization": "华北水利水电大学",
+        "members": [
+            "左永欣"
+        ],
+        "coach": "None",
+        "location": "线上-144",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online145": {
+        "team_id": "online145",
+        "name": "刘昶",
+        "organization": "华北水利水电大学",
+        "members": [
+            "刘昶"
+        ],
+        "coach": "None",
+        "location": "线上-145",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online146": {
+        "team_id": "online146",
+        "name": "梁志洋",
+        "organization": "华北水利水电大学",
+        "members": [
+            "梁志洋"
+        ],
+        "coach": "None",
+        "location": "线上-146",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online147": {
+        "team_id": "online147",
+        "name": "朱志博",
+        "organization": "华北水利水电大学",
+        "members": [
+            "朱志博"
+        ],
+        "coach": "None",
+        "location": "线上-147",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online148": {
+        "team_id": "online148",
+        "name": "李森林",
+        "organization": "华北水利水电大学",
+        "members": [
+            "李森林"
+        ],
+        "coach": "None",
+        "location": "线上-148",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online149": {
+        "team_id": "online149",
+        "name": "高威",
+        "organization": "华北水利水电大学",
+        "members": [
+            "高威"
+        ],
+        "coach": "None",
+        "location": "线上-149",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online150": {
+        "team_id": "online150",
+        "name": "樊丰恺",
+        "organization": "华北水利水电大学",
+        "members": [
+            "樊丰恺"
+        ],
+        "coach": "None",
+        "location": "线上-150",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online151": {
+        "team_id": "online151",
+        "name": "石荣宾",
+        "organization": "华北水利水电大学",
+        "members": [
+            "石荣宾"
+        ],
+        "coach": "None",
+        "location": "线上-151",
+        "group": [
+            "unofficial"
+        ]
+    },
+    "online152": {
+        "team_id": "online152",
+        "name": "张嘉涛",
+        "organization": "华北水利水电大学",
+        "members": [
+            "张嘉涛"
+        ],
+        "coach": "None",
+        "location": "线上-152",
+        "group": [
+            "unofficial"
+        ]
+    }
+}
