@@ -1,4 +1,32 @@
 {
+    "ccpc": {
+        "11st": {
+            "zhengzhou-invitational-warmup": {
+                "config": {
+                    "contest_name": "2025 CCPC 全国邀请赛（郑州）暨第七届 CCPC 河南省赛 - 热身赛",
+                    "start_time": 1748764800,
+                    "end_time": 1748770200,
+                    "frozen_time": 3600,
+                    "logo": {
+                        "preset": "ccpc"
+                    }
+                },
+                "board_link": "/ccpc/11st/zhengzhou-invitational-warmup"
+            },
+            "zhengzhou-invitational": {
+                "config": {
+                    "contest_name": "2025 CCPC 全国邀请赛（郑州）暨第七届 CCPC 河南省赛 - 正式赛",
+                    "start_time": 1748826000,
+                    "end_time": 1748844000,
+                    "frozen_time": 3600,
+                    "logo": {
+                        "preset": "ccpc"
+                    }
+                },
+                "board_link": "/ccpc/11st/zhengzhou-invitational"
+            }
+        }
+    },
     "school-contest": {
         "zzuli": {
             "freshman-based": {
