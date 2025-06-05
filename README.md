@@ -3,6 +3,10 @@
 Archived xcpcio board data of zzuli.
 
 ```
+├─ccpc
+│  └─11st
+│      ├─zhengzhou-invitational
+│      └─zhengzhou-invitational-warmup
 ├─index
 └─school-contest
     └─zzuli
